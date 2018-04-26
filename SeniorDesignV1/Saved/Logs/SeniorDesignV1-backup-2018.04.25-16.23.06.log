@@ -1,0 +1,564 @@
+﻿Log file open, 04/24/18 21:35:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SeniorDesignV1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(975359790) SRandInit(975359790).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.205400
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.25-04.35.08:784][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.25-04.35.08:784][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.25-04.35.08:799][  0]LogInit: Computer: ART-D-01006
+[2018.04.25-04.35.08:799][  0]LogInit: User: VRBC
+[2018.04.25-04.35.08:799][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.25-04.35.08:799][  0]LogInit: High frequency timer resolution =3.604940 MHz
+[2018.04.25-04.35.08:799][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.25-04.35.08:799][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.25-04.35.08:799][  0]LogMemory: Process Physical Memory: 284.68 MB used, 284.68 MB peak
+[2018.04.25-04.35.08:799][  0]LogMemory: Process Virtual Memory: 285.52 MB used, 285.52 MB peak
+[2018.04.25-04.35.08:799][  0]LogMemory: Physical Memory: 6760.23 MB used,  9545.90 MB free, 16306.14 MB total
+[2018.04.25-04.35.08:799][  0]LogMemory: Virtual Memory: 710.17 MB used,  9545.90 MB free, 134217728.00 MB total
+[2018.04.25-04.35.09:290][  0]LogInit: Using OS detected language (en-US).
+[2018.04.25-04.35.09:290][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.25-04.35.09:297][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.25-04.35.10:231][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.25-04.35.10:278][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P4000' (Feature Level 11_0)
+[2018.04.25-04.35.10:278][  0]LogD3D11RHI:       8121/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.25-04.35.10:280][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.25-04.35.10:280][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.25-04.35.10:280][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.25-04.35.10:291][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.25-04.35.10:291][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb1 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.25-04.35.10:291][  0]LogWindows: EnumDisplayDevices:
+[2018.04.25-04.35.10:292][  0]LogWindows:    0. 'NVIDIA Quadro P4000' (P:1 D:1)
+[2018.04.25-04.35.10:292][  0]LogWindows:    1. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.04.25-04.35.10:292][  0]LogWindows:    2. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.04.25-04.35.10:293][  0]LogWindows:    3. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.04.25-04.35.10:293][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.04.25-04.35.10:293][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P4000
+[2018.04.25-04.35.10:293][  0]LogD3D11RHI:   Driver Version: 381.65 (internal:22.21.13.8165, unified:381.65)
+[2018.04.25-04.35.10:293][  0]LogD3D11RHI:      Driver Date: 3-31-2017
+[2018.04.25-04.35.10:293][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.04.25-04.35.10:323][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.25-04.35.10:335][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.25-04.35.10:378][  0]LogShaderCompilers: Guid format shader working directory is -50 characters bigger than the processId version (../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Intermediate/Shaders/WorkingDirectory/14060/).
+[2018.04.25-04.35.10:379][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/VRBC/AppData/Local/Temp/UnrealShaderWorkingDir/E9F94901463579443A1B22BDAB344512/'.
+[2018.04.25-04.35.10:379][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.25-04.35.11:713][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.25-04.35.11:825][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.25-04.35.11:936][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.25-04.35.12:047][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.25-04.35.12:158][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.25-04.35.12:269][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.25-04.35.12:377][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.25-04.35.12:485][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.25-04.35.12:586][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.25-04.35.12:698][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.25-04.35.12:805][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.25-04.35.12:912][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.25-04.35.13:018][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.25-04.35.13:125][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.25-04.35.13:232][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.25-04.35.13:451][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.25-04.35.13:451][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.25-04.35.13:550][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.25-04.35.13:735][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.25-04.35.13:797][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.25-04.35.13:912][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.25-04.35.14:020][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.25-04.35.14:126][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.25-04.35.14:244][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.25-04.35.14:244][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.25-04.35.15:443][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.25-04.35.15:621][  0]LogDerivedDataCache: Loaded boot cache 0.18s 93MB C:/Users/VRBC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.25-04.35.15:622][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/VRBC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.04.25-04.35.15:622][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.25-04.35.15:622][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.25-04.35.15:622][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.25-04.35.15:622][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.25-04.35.15:640][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.25-04.35.15:653][  0]LogDerivedDataCache: Using Local data cache path C:/Users/VRBC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.25-04.35.15:671][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.25-04.35.15:671][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.25-04.35.15:672][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.25-04.35.15:672][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.25-04.35.15:993][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.04.25-04.35.16:170][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.25-04.35.16:378][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.04.25-04.35.17:066][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.25-04.35.17:177][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.25-04.35.17:177][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.25-04.35.17:177][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.25-04.35.17:177][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.25-04.35.17:177][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.25-04.35.17:687][  0]LogNetVersion: SeniorDesignV1 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 404673968)
+[2018.04.25-04.35.18:026][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.051492 seconds
+[2018.04.25-04.35.18:032][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.04.25-04.35.18:032][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.04.25-04.35.18:032][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.25-04.35.18:194][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.25-04.35.23:040][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.25-04.35.23:118][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.25-04.35.24:611][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.25-04.35.25:797][  0]SourceControl: Source control is disabled
+[2018.04.25-04.35.25:797][  0]SourceControl: Source control is disabled
+[2018.04.25-04.35.25:927][  0]SourceControl: Source control is disabled
+[2018.04.25-04.35.26:057][  0]SourceControl: Source control is disabled
+[2018.04.25-04.35.27:422][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.25-04.35.27:973][  0]LogOcInput: OculusInput pre-init called
+[2018.04.25-04.35.28:505][  0]LogEngine: Initializing Engine...
+[2018.04.25-04.35.28:506][  0]LogHMD: Oculus plugin initialized. Version: 4.17.2-3658906+++UE4+Release-4.17, OVRPlugin: 1.15.0
+[2018.04.25-04.35.28:775][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.25-04.35.28:775][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.25-04.35.29:084][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.25-04.35.29:113][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.25-04.35.29:154][  0]LogInit: FAudioDevice initialized.
+[2018.04.25-04.35.29:299][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB C:/Users/VRBC/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.04.25-04.35.29:318][  0]LogInit: Texture streaming: Enabled
+[2018.04.25-04.35.29:602][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.25-04.35.30:121][  0]LogInit: Transaction tracking system initialized
+[2018.04.25-04.35.30:877][  0]BlueprintLog: New page: Editor Load
+[2018.04.25-04.35.33:186][  0]LocalizationService: Localization service is disabled
+[2018.04.25-04.35.35:120][  0]LogConsoleResponse: Display: 
+[2018.04.25-04.35.35:442][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.25-04.35.35:443][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.25-04.35.35:443][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.25-04.35.36:181][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/' took 0.01s
+[2018.04.25-04.35.38:126][  0]SourceControl: Source control is disabled
+[2018.04.25-04.35.38:126][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.25-04.35.38:127][  0]LightingResults: New page: Lighting Build
+[2018.04.25-04.35.38:234][  0]MapCheck: New page: Map Check
+[2018.04.25-04.35.38:234][  0]LightingResults: New page: Lighting Build
+[2018.04.25-04.35.38:384][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.25-04.35.38:390][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.25-04.35.38:412][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.25-04.35.38:505][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.741ms to complete.
+[2018.04.25-04.35.38:505][  0]LogFileHelpers: Loading map 'Template_Default' took 0.379
+[2018.04.25-04.35.38:642][  0]LogCollectionManager: Loaded 0 collections in 0.002419 seconds
+[2018.04.25-04.35.38:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Collections/' took 0.01s
+[2018.04.25-04.35.38:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Developers/VRBC/Collections/' took 0.01s
+[2018.04.25-04.35.38:777][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Collections/' took 0.01s
+[2018.04.25-04.35.38:777][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.25-04.35.38:786][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2386 classes and 500 folders.
+[2018.04.25-04.35.38:940][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.04.25-04.35.38:994][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.04.25-04.35.39:106][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.04.25-04.35.39:157][  0]LogSlate: Took 0.000403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.25-04.35.39:160][  0]LogSlate: Took 0.000379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.25-04.35.39:168][  0]LogSlate: Took 0.000336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.25-04.35.39:264][  0]LogRenderer: Reallocating scene render targets to support 1148x584 Format 10 NumSamples 1 (Frame:1).
+[2018.04.25-04.35.39:510][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.04.25-04.35.39:510][  0]LogLoad: (Engine Initialization) Total time: 33.77 seconds
+[2018.04.25-04.35.39:510][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.25-04.35.39:510][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.25-04.35.39:521][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.25-04.35.39:529][  0]LogOcInput: OculusInput is initialized
+[2018.04.25-04.35.39:548][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.25-04.35.39:575][  0]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.25-04.35.39:749][  1]LogAssetRegistry: Asset discovery search completed in 23.7775 seconds
+[2018.04.25-04.35.39:750][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.25-04.35.39:750][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2018.04.25-04.35.45:623][661]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.25-04.35.46:195][661]LogAIModule: Creating AISystem for world Clsasroom
+[2018.04.25-04.35.46:250][661]Cmd: MAP LOAD FILE="../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Clsasroom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.25-04.35.46:250][661]LightingResults: New page: Lighting Build
+[2018.04.25-04.35.46:251][661]LoadErrors: New page: Loading map: Clsasroom.umap
+[2018.04.25-04.35.46:251][661]MapCheck: New page: Map Check
+[2018.04.25-04.35.46:251][661]LightingResults: New page: Lighting Build
+[2018.04.25-04.35.46:339][661]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.25-04.35.46:372][661]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.25-04.35.46:483][661]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.308ms to complete.
+[2018.04.25-04.35.46:485][661]LogFileHelpers: Loading map 'Clsasroom' took 0.236
+[2018.04.25-04.44.36:630][ 44]LogAssetTools: Warning: Failed to import 'C:\Users\VRBC\Desktop\VLtest\MyProject\Content\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset'. Unknown extension 'uasset'.
+[2018.04.25-04.44.36:642][ 44]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.25-04.46.26:115][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicTable_matteMetal11)
+[2018.04.25-04.46.27:158][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.04.25-04.48.13:882][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.04.25-04.48.14:737][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.04.25-04.48.15:129][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.04.25-04.48.15:711][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.04.25-04.48.16:096][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.04.25-04.48.16:769][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.04.25-04.48.17:144][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.04.25-04.48.17:602][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2018.04.25-04.48.17:723][848]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.04.25-04.48.22:848][218]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.25-04.52.17:792][228]Cmd: DELETE
+[2018.04.25-04.52.17:792][228]Cmd: ACTOR DELETE
+[2018.04.25-04.52.17:796][228]LogEditorActor: Deleted Actor: Character
+[2018.04.25-04.52.17:806][228]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2018.04.25-04.52.19:294][370]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube4)
+[2018.04.25-04.52.20:346][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (raised_steps)
+[2018.04.25-04.56.26:427][ 86]LogSavePackage: Save=371.46ms
+[2018.04.25-04.56.26:427][ 86]LogSavePackage: Moving '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Clsasroom_Auto189A2CC72483CCB5582FFD5B52118F8B9.tmp' to '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/Clsasroom_Auto1.umap'
+[2018.04.25-04.56.26:430][ 86]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/Clsasroom_Auto1.umap
+[2018.04.25-04.56.26:431][ 86]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Clsasroom' took 0.424
+[2018.04.25-04.56.26:432][ 86]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.424
+[2018.04.25-04.56.26:433][ 86]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterMaterial] ([1] browsable assets)...
+[2018.04.25-04.56.26:444][ 86]OBJ SavePackage:     Rendered thumbnail for [Material /Game/CharacterMaterial.CharacterMaterial]
+[2018.04.25-04.56.26:444][ 86]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterMaterial]
+[2018.04.25-04.56.26:459][ 86]LogSavePackage: Save=12.61ms
+[2018.04.25-04.56.26:459][ 86]LogSavePackage: Moving '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/CharacterMaterial_Auto1CA7BB6CB42505AFB3978F7B9AFCC8E58.tmp' to '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/CharacterMaterial_Auto1.uasset'
+[2018.04.25-04.56.26:461][ 86]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/CharacterMaterial_Auto1.uasset
+[2018.04.25-04.56.26:461][ 86]LogFileHelpers: Auto-saving content packages took 0.029
+[2018.04.25-04.57.05:225][141]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2018.04.25-04.57.05:795][141]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.25-04.57.05:926][141]LogRenderer: Reallocating scene render targets to support 1148x712 Format 10 NumSamples 1 (Frame:1).
+[2018.04.25-04.57.11:550][521]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.25-04.58.29:062][992]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2018.04.25-04.58.29:514][ 21]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2018.04.25-04.58.32:942][274]LogTemp: Repeating last play command: VR Preview
+[2018.04.25-04.58.32:973][274]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.25-04.58.32:973][274]LogHMD: Initializing OVRPlugin session
+[2018.04.25-04.58.33:194][274]PIE: New page: PIE session: Clsasroom (Apr 24, 2018, 2:58:33 PM)
+[2018.04.25-04.58.33:194][274]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Clsasroom
+[2018.04.25-04.58.33:216][274]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021926s)
+[2018.04.25-04.58.33:216][274]LogAIModule: Creating AISystem for world Clsasroom
+[2018.04.25-04.58.33:217][274]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2018.04.25-04.58.33:217][274]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Clsasroom.Clsasroom to /Game/UEDPIE_0_Clsasroom.Clsasroom (0.023422s)
+[2018.04.25-04.58.33:289][274]LogInit: XAudio2 using 'Headphones (3- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.25-04.58.33:341][274]LogInit: FAudioDevice initialized.
+[2018.04.25-04.58.34:646][274]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.25-04.58.34:687][274]LogLoad: Game class is 'GameModeBase'
+[2018.04.25-04.58.34:703][274]LogWorld: Bringing World /Game/UEDPIE_0_Clsasroom.Clsasroom up for play (max tick rate 0) at 2018.04.24-21.58.34
+[2018.04.25-04.58.34:707][274]LogWorld: Bringing up level for play took: 0.016950
+[2018.04.25-04.58.34:842][274]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0118 seconds. Added 11 classes and 0 folders.
+[2018.04.25-04.58.34:863][274]PIE: Play in editor start time for /Game/UEDPIE_0_Clsasroom 2.009
+[2018.04.25-04.58.34:891][274]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 10 NumSamples 1 (Frame:1).
+[2018.04.25-04.58.47:608][541]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2018.04.25-04.59.17:704][671]LogEditorViewport: Clicking on Actor (LMB): Pawn (Pawn)
+[2018.04.25-04.59.17:796][672]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2018.04.25-04.59.35:630][  0]Cmd: DELETE
+[2018.04.25-04.59.35:630][  0]Cmd: ACTOR DELETE
+[2018.04.25-04.59.35:631][  0]LogEditorActor: Deleted Actor: Pawn
+[2018.04.25-04.59.35:648][  0]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.04.25-05.04.32:643][538]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SeniorDesignV1
+[2018.04.25-05.04.32:643][538]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.25-05.04.32:643][538]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2018.04.25-05.04.32:643][538]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.25-05.04.32:647][538]LogTemp: BranchPath = ART-D-01006/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = ART-D-01006/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2018.04.25-05.04.32:667][538]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\VRBC\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.25-05.04.39:802][ 50]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.25-05.05.41:801][812]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SeniorDesignV1
+[2018.04.25-05.05.41:801][812]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.25-05.05.41:801][812]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2018.04.25-05.05.41:801][812]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.25-05.05.41:806][812]LogTemp: BranchPath = ART-D-01006/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = ART-D-01006/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2018.04.25-05.05.41:840][813]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\VRBC\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.25-05.06.34:208][173]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SeniorDesignV1
+[2018.04.25-05.06.34:208][173]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.25-05.06.34:208][173]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2018.04.25-05.06.34:208][173]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.25-05.06.34:212][173]LogTemp: BranchPath = ART-D-01006/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = ART-D-01006/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2018.04.25-05.06.34:229][174]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\VRBC\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.25-05.11.05:633][397]BlueprintLog: New page: Compile PlayerCharacter
+[2018.04.25-05.11.06:549][450]LogSavePackage: Save=23.58ms
+[2018.04.25-05.11.06:549][450]LogSavePackage: Moving '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/PlayerCharacterB46A55F34A3E1DCC0553C295B2E58C4C.tmp' to '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Blueprints/PlayerCharacter.uasset'
+[2018.04.25-05.11.06:552][450]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Blueprints/PlayerCharacter.uasset
+[2018.04.25-05.11.43:562][168]LogSavePackage: Save=378.68ms
+[2018.04.25-05.11.43:562][168]LogSavePackage: Moving '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Clsasroom_Auto2D411C8DF48D3D4CDB4F86A90A7E74337.tmp' to '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/Clsasroom_Auto2.umap'
+[2018.04.25-05.11.43:566][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/Clsasroom_Auto2.umap
+[2018.04.25-05.11.43:567][168]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Clsasroom' took 0.421
+[2018.04.25-05.11.43:567][168]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.421
+[2018.04.25-05.11.43:569][168]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerControllerBP] ([1] browsable assets)...
+[2018.04.25-05.11.43:569][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerControllerBP]
+[2018.04.25-05.11.43:584][168]LogSavePackage: Save=13.60ms
+[2018.04.25-05.11.43:584][168]LogSavePackage: Moving '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/PlayerControllerBP_Auto235C9362C4E582681B6664A8911EFFF71.tmp' to '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/PlayerControllerBP_Auto2.uasset'
+[2018.04.25-05.11.43:588][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/PlayerControllerBP_Auto2.uasset
+[2018.04.25-05.11.43:593][168]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MyGameMode] ([1] browsable assets)...
+[2018.04.25-05.11.43:593][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MyGameMode]
+[2018.04.25-05.11.43:608][168]LogSavePackage: Save=12.76ms
+[2018.04.25-05.11.43:608][168]LogSavePackage: Moving '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/MyGameMode_Auto2ADD729B34461E55D3D0A68A209D731BA.tmp' to '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/Blueprints/MyGameMode_Auto2.uasset'
+[2018.04.25-05.11.43:609][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/Blueprints/MyGameMode_Auto2.uasset
+[2018.04.25-05.11.43:609][168]LogFileHelpers: Auto-saving content packages took 0.041
+[2018.04.25-05.12.42:665][962]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.SeniorDesignV1
+[2018.04.25-05.12.42:665][962]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.25-05.12.42:665][962]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2018.04.25-05.12.42:665][962]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.04.25-05.12.42:679][963]LogTemp: BranchPath = ART-D-01006/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = ART-D-01006/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2018.04.25-05.12.42:694][964]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\VRBC\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.25-05.12.51:645][626]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.25-05.13.09:810][ 71]LogMetaData: Removing '/Game/Blueprints/SpeakerPlayerCharacter.SpeakerPlayerCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/PlayerCharacter.PackageMetaData'
+[2018.04.25-05.13.09:810][ 71]LogMetaData: Removing '/Game/Blueprints/SpeakerPlayerCharacter.SKEL_SpeakerPlayerCharacter_C' ref from Metadata '/Game/Blueprints/PlayerCharacter.PackageMetaData'
+[2018.04.25-05.13.09:810][ 71]LogMetaData: Removing '/Game/Blueprints/SpeakerPlayerCharacter.SpeakerPlayerCharacter_C' ref from Metadata '/Game/Blueprints/PlayerCharacter.PackageMetaData'
+[2018.04.25-05.13.09:810][ 71]LogMetaData: Removing '/Game/Blueprints/SpeakerPlayerCharacter.SpeakerPlayerCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/PlayerCharacter.PackageMetaData'
+[2018.04.25-05.13.09:810][ 71]LogMetaData: Removing '/Game/Blueprints/SpeakerPlayerCharacter.SpeakerPlayerCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/PlayerCharacter.PackageMetaData'
+[2018.04.25-05.13.09:810][ 71]LogMetaData: Removing '/Game/Blueprints/SpeakerPlayerCharacter.SpeakerPlayerCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/PlayerCharacter.PackageMetaData'
+[2018.04.25-05.13.09:868][ 71]LogSavePackage: Save=26.61ms
+[2018.04.25-05.13.09:869][ 71]LogSavePackage: Moving '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/SpeakerPlayerCharacterB7A95BEB4B7DED5F9E13619EC9548158.tmp' to '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Blueprints/SpeakerPlayerCharacter.uasset'
+[2018.04.25-05.13.09:872][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Blueprints/SpeakerPlayerCharacter.uasset
+[2018.04.25-05.13.11:715][187]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.25-05.14.34:876][780]BlueprintLog: New page: Compile SpeakerPlayerCharacter
+[2018.04.25-05.14.35:729][830]LogSavePackage: Save=23.48ms
+[2018.04.25-05.14.35:729][830]LogSavePackage: Moving '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/SpeakerPlayerCharacter43EFC6F144C9044023D26ABC4F5F2943.tmp' to '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Blueprints/SpeakerPlayerCharacter.uasset'
+[2018.04.25-05.14.35:734][830]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Blueprints/SpeakerPlayerCharacter.uasset
+[2018.04.25-05.14.48:211][726]LogTemp: Repeating last play command: VR Preview
+[2018.04.25-05.14.48:226][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.25-05.14.48:226][726]LogHMD: Initializing OVRPlugin session
+[2018.04.25-05.14.48:251][726]PIE: New page: PIE session: Clsasroom (Apr 24, 2018, 3:14:48 PM)
+[2018.04.25-05.14.48:251][726]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Clsasroom
+[2018.04.25-05.14.48:269][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017240s)
+[2018.04.25-05.14.48:269][726]LogAIModule: Creating AISystem for world Clsasroom
+[2018.04.25-05.14.48:269][726]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2018.04.25-05.14.48:270][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Clsasroom.Clsasroom to /Game/UEDPIE_0_Clsasroom.Clsasroom (0.018481s)
+[2018.04.25-05.14.48:316][726]LogInit: XAudio2 using 'Headphones (3- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.25-05.14.48:338][726]LogInit: FAudioDevice initialized.
+[2018.04.25-05.14.48:432][726]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.25-05.14.48:462][726]LogLoad: Game class is 'MyGameMode_C'
+[2018.04.25-05.14.48:473][726]LogWorld: Bringing World /Game/UEDPIE_0_Clsasroom.Clsasroom up for play (max tick rate 0) at 2018.04.24-22.14.48
+[2018.04.25-05.14.48:474][726]LogWorld: Bringing up level for play took: 0.011383
+[2018.04.25-05.14.48:487][726]PIE: Play in editor start time for /Game/UEDPIE_0_Clsasroom -0.367
+[2018.04.25-05.17.41:180][918]BlueprintLog: New page: Compile SpeakerPlayerCharacter
+[2018.04.25-05.17.41:936][950]LogSavePackage: Save=35.00ms
+[2018.04.25-05.17.41:936][950]LogSavePackage: Moving '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/SpeakerPlayerCharacter76FC41E74755E431396545BBF9DE7F14.tmp' to '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Blueprints/SpeakerPlayerCharacter.uasset'
+[2018.04.25-05.17.41:941][950]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Blueprints/SpeakerPlayerCharacter.uasset
+[2018.04.25-05.17.43:677][ 62]LogTemp: Repeating last play command: VR Preview
+[2018.04.25-05.17.43:694][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.25-05.17.43:694][ 62]LogHMD: Initializing OVRPlugin session
+[2018.04.25-05.17.43:722][ 62]PIE: New page: PIE session: Clsasroom (Apr 24, 2018, 3:17:43 PM)
+[2018.04.25-05.17.43:722][ 62]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Clsasroom
+[2018.04.25-05.17.43:737][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015440s)
+[2018.04.25-05.17.43:738][ 62]LogAIModule: Creating AISystem for world Clsasroom
+[2018.04.25-05.17.43:738][ 62]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2018.04.25-05.17.43:738][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Clsasroom.Clsasroom to /Game/UEDPIE_0_Clsasroom.Clsasroom (0.016629s)
+[2018.04.25-05.17.43:791][ 62]LogInit: XAudio2 using 'Headphones (3- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.25-05.17.43:807][ 62]LogInit: FAudioDevice initialized.
+[2018.04.25-05.17.43:908][ 62]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.25-05.17.43:940][ 62]LogLoad: Game class is 'MyGameMode_C'
+[2018.04.25-05.17.43:953][ 62]LogWorld: Bringing World /Game/UEDPIE_0_Clsasroom.Clsasroom up for play (max tick rate 0) at 2018.04.24-22.17.43
+[2018.04.25-05.17.43:954][ 62]LogWorld: Bringing up level for play took: 0.013232
+[2018.04.25-05.17.43:970][ 62]PIE: Play in editor start time for /Game/UEDPIE_0_Clsasroom 1.117
+[2018.04.25-05.20.12:188][592]LogTemp: Repeating last play command: VR Preview
+[2018.04.25-05.20.12:211][592]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.25-05.20.12:217][592]LogPlayLevel: [PlayLevel] Compiling SpeakerPlayerCharacter before play...
+[2018.04.25-05.20.12:432][592]LogPlayLevel: PlayLevel: Blueprint regeneration took 221 ms (1 blueprints)
+[2018.04.25-05.20.12:432][592]LogHMD: Initializing OVRPlugin session
+[2018.04.25-05.20.12:455][592]PIE: New page: PIE session: Clsasroom (Apr 24, 2018, 3:20:12 PM)
+[2018.04.25-05.20.12:455][592]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Clsasroom
+[2018.04.25-05.20.12:468][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013640s)
+[2018.04.25-05.20.12:469][592]LogAIModule: Creating AISystem for world Clsasroom
+[2018.04.25-05.20.12:469][592]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.04.25-05.20.12:469][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Clsasroom.Clsasroom to /Game/UEDPIE_0_Clsasroom.Clsasroom (0.014659s)
+[2018.04.25-05.20.12:516][592]LogInit: XAudio2 using 'Headphones (3- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.25-05.20.12:532][592]LogInit: FAudioDevice initialized.
+[2018.04.25-05.20.12:635][592]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.25-05.20.12:667][592]LogLoad: Game class is 'MyGameMode_C'
+[2018.04.25-05.20.12:680][592]LogWorld: Bringing World /Game/UEDPIE_0_Clsasroom.Clsasroom up for play (max tick rate 0) at 2018.04.24-22.20.12
+[2018.04.25-05.20.12:682][592]LogWorld: Bringing up level for play took: 0.014146
+[2018.04.25-05.20.12:694][592]PIE: Play in editor start time for /Game/UEDPIE_0_Clsasroom -0.16
+[2018.04.25-05.22.02:854][626]LogTemp: Repeating last play command: VR Preview
+[2018.04.25-05.22.02:870][626]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.25-05.22.02:875][626]LogPlayLevel: [PlayLevel] Compiling SpeakerPlayerCharacter before play...
+[2018.04.25-05.22.03:054][626]LogPlayLevel: PlayLevel: Blueprint regeneration took 184 ms (1 blueprints)
+[2018.04.25-05.22.03:054][626]LogHMD: Initializing OVRPlugin session
+[2018.04.25-05.22.03:074][626]PIE: New page: PIE session: Clsasroom (Apr 24, 2018, 3:22:03 PM)
+[2018.04.25-05.22.03:074][626]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Clsasroom
+[2018.04.25-05.22.03:086][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011904s)
+[2018.04.25-05.22.03:087][626]LogAIModule: Creating AISystem for world Clsasroom
+[2018.04.25-05.22.03:087][626]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2018.04.25-05.22.03:087][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Clsasroom.Clsasroom to /Game/UEDPIE_0_Clsasroom.Clsasroom (0.012921s)
+[2018.04.25-05.22.03:126][626]LogInit: XAudio2 using 'Headphones (3- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.25-05.22.03:139][626]LogInit: FAudioDevice initialized.
+[2018.04.25-05.22.03:233][626]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.25-05.22.03:263][626]LogLoad: Game class is 'MyGameMode_C'
+[2018.04.25-05.22.03:272][626]LogWorld: Bringing World /Game/UEDPIE_0_Clsasroom.Clsasroom up for play (max tick rate 0) at 2018.04.24-22.22.03
+[2018.04.25-05.22.03:273][626]LogWorld: Bringing up level for play took: 0.009684
+[2018.04.25-05.22.03:284][626]PIE: Play in editor start time for /Game/UEDPIE_0_Clsasroom 0.43
+[2018.04.25-05.23.04:105][537]BlueprintLog: New page: Compile SpeakerPlayerCharacter
+[2018.04.25-05.23.04:784][570]LogSavePackage: Save=35.12ms
+[2018.04.25-05.23.04:784][570]LogSavePackage: Moving '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/SpeakerPlayerCharacter591E085C48C96420FF41FDA9D5EBFC2A.tmp' to '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Blueprints/SpeakerPlayerCharacter.uasset'
+[2018.04.25-05.23.04:788][570]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Content/Blueprints/SpeakerPlayerCharacter.uasset
+[2018.04.25-05.23.08:208][817]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.04.25-05.23.15:313][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ChairMapped_SeatBack60)
+[2018.04.25-05.23.15:792][316]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (female3_sitting_Anim_mixamo_com)
+[2018.04.25-05.23.16:659][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.04.25-05.23.18:391][473]Cmd: TRANSACTION UNDO
+[2018.04.25-05.23.18:391][473]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.25-05.23.19:162][516]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.04.25-05.23.20:170][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.04.25-05.23.21:209][639]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.04.25-05.24.14:841][136]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (female4_sitting_Anim_mixamo_com)
+[2018.04.25-05.24.31:074][ 40]LogTemp: Repeating last play command: VR Preview
+[2018.04.25-05.24.31:090][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.25-05.24.31:090][ 40]LogHMD: Initializing OVRPlugin session
+[2018.04.25-05.24.31:112][ 40]PIE: New page: PIE session: Clsasroom (Apr 24, 2018, 3:24:31 PM)
+[2018.04.25-05.24.31:112][ 40]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Clsasroom
+[2018.04.25-05.24.31:124][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012414s)
+[2018.04.25-05.24.31:125][ 40]LogAIModule: Creating AISystem for world Clsasroom
+[2018.04.25-05.24.31:125][ 40]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2018.04.25-05.24.31:125][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Clsasroom.Clsasroom to /Game/UEDPIE_0_Clsasroom.Clsasroom (0.013353s)
+[2018.04.25-05.24.31:167][ 40]LogInit: XAudio2 using 'Headphones (3- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.25-05.24.31:181][ 40]LogInit: FAudioDevice initialized.
+[2018.04.25-05.24.31:280][ 40]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.25-05.24.31:308][ 40]LogLoad: Game class is 'MyGameMode_C'
+[2018.04.25-05.24.31:317][ 40]LogWorld: Bringing World /Game/UEDPIE_0_Clsasroom.Clsasroom up for play (max tick rate 0) at 2018.04.24-22.24.31
+[2018.04.25-05.24.31:318][ 40]LogWorld: Bringing up level for play took: 0.009665
+[2018.04.25-05.24.31:325][ 40]PIE: Play in editor start time for /Game/UEDPIE_0_Clsasroom 0.471
+[2018.04.25-05.24.38:345][704]LogTemp: Repeating last play command: VR Preview
+[2018.04.25-05.24.38:359][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.25-05.24.38:359][704]LogHMD: Initializing OVRPlugin session
+[2018.04.25-05.24.38:381][704]PIE: New page: PIE session: Clsasroom (Apr 24, 2018, 3:24:38 PM)
+[2018.04.25-05.24.38:381][704]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Clsasroom
+[2018.04.25-05.24.38:393][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011395s)
+[2018.04.25-05.24.38:393][704]LogAIModule: Creating AISystem for world Clsasroom
+[2018.04.25-05.24.38:393][704]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2018.04.25-05.24.38:394][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Clsasroom.Clsasroom to /Game/UEDPIE_0_Clsasroom.Clsasroom (0.012345s)
+[2018.04.25-05.24.38:436][704]LogInit: XAudio2 using 'Headphones (3- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.25-05.24.38:449][704]LogInit: FAudioDevice initialized.
+[2018.04.25-05.24.38:546][704]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.25-05.24.38:575][704]LogLoad: Game class is 'MyGameMode_C'
+[2018.04.25-05.24.38:587][704]LogWorld: Bringing World /Game/UEDPIE_0_Clsasroom.Clsasroom up for play (max tick rate 0) at 2018.04.24-22.24.38
+[2018.04.25-05.24.38:588][704]LogWorld: Bringing up level for play took: 0.012591
+[2018.04.25-05.24.38:596][704]PIE: Play in editor start time for /Game/UEDPIE_0_Clsasroom -0.258
+[2018.04.25-05.24.45:543][166]LogTemp: Repeating last play command: VR Preview
+[2018.04.25-05.24.45:563][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.25-05.24.45:563][166]LogHMD: Initializing OVRPlugin session
+[2018.04.25-05.24.45:589][166]PIE: New page: PIE session: Clsasroom (Apr 24, 2018, 3:24:45 PM)
+[2018.04.25-05.24.45:589][166]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Clsasroom
+[2018.04.25-05.24.45:607][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017045s)
+[2018.04.25-05.24.45:607][166]LogAIModule: Creating AISystem for world Clsasroom
+[2018.04.25-05.24.45:607][166]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2018.04.25-05.24.45:607][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Clsasroom.Clsasroom to /Game/UEDPIE_0_Clsasroom.Clsasroom (0.018019s)
+[2018.04.25-05.24.45:659][166]LogInit: XAudio2 using 'Headphones (3- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.25-05.24.45:672][166]LogInit: FAudioDevice initialized.
+[2018.04.25-05.24.45:773][166]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.25-05.24.45:803][166]LogLoad: Game class is 'MyGameMode_C'
+[2018.04.25-05.24.45:814][166]LogWorld: Bringing World /Game/UEDPIE_0_Clsasroom.Clsasroom up for play (max tick rate 0) at 2018.04.24-22.24.45
+[2018.04.25-05.24.45:815][166]LogWorld: Bringing up level for play took: 0.011561
+[2018.04.25-05.24.45:825][166]PIE: Play in editor start time for /Game/UEDPIE_0_Clsasroom 0.971
+[2018.04.25-05.25.04:242][ 89]Cmd: SELECT NONE
+[2018.04.25-05.25.06:310][234]LogTemp: Repeating last play command: VR Preview
+[2018.04.25-05.25.06:331][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.25-05.25.06:331][234]LogHMD: Initializing OVRPlugin session
+[2018.04.25-05.25.06:359][234]PIE: New page: PIE session: Clsasroom (Apr 24, 2018, 3:25:06 PM)
+[2018.04.25-05.25.06:359][234]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Clsasroom
+[2018.04.25-05.25.06:372][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013210s)
+[2018.04.25-05.25.06:373][234]LogAIModule: Creating AISystem for world Clsasroom
+[2018.04.25-05.25.06:373][234]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2018.04.25-05.25.06:374][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Clsasroom.Clsasroom to /Game/UEDPIE_0_Clsasroom.Clsasroom (0.014755s)
+[2018.04.25-05.25.06:425][234]LogInit: XAudio2 using 'Headphones (3- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.25-05.25.06:440][234]LogInit: FAudioDevice initialized.
+[2018.04.25-05.25.06:536][234]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.04.25-05.25.06:566][234]LogLoad: Game class is 'MyGameMode_C'
+[2018.04.25-05.25.06:579][234]LogWorld: Bringing World /Game/UEDPIE_0_Clsasroom.Clsasroom up for play (max tick rate 0) at 2018.04.24-22.25.06
+[2018.04.25-05.25.06:581][234]LogWorld: Bringing up level for play took: 0.014213
+[2018.04.25-05.25.06:590][234]PIE: Play in editor start time for /Game/UEDPIE_0_Clsasroom -0.264
+[2018.04.25-05.25.42:207][ 99]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Clsasroom' took 0.016
+[2018.04.25-05.25.42:209][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerControllerBP] ([1] browsable assets)...
+[2018.04.25-05.25.42:209][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerControllerBP]
+[2018.04.25-05.25.42:223][ 99]LogSavePackage: Save=11.46ms
+[2018.04.25-05.25.42:223][ 99]LogSavePackage: Moving '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/PlayerControllerBP_Auto3B778932843679308EA2C65AAA09AD40E.tmp' to '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/PlayerControllerBP_Auto3.uasset'
+[2018.04.25-05.25.42:225][ 99]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/PlayerControllerBP_Auto3.uasset
+[2018.04.25-05.25.42:226][ 99]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MyGameMode] ([1] browsable assets)...
+[2018.04.25-05.25.42:226][ 99]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MyGameMode]
+[2018.04.25-05.25.42:239][ 99]LogSavePackage: Save=11.30ms
+[2018.04.25-05.25.42:239][ 99]LogSavePackage: Moving '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/MyGameMode_Auto3789A3DE6407302EC2D42C189C4D95CB4.tmp' to '../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/Blueprints/MyGameMode_Auto3.uasset'
+[2018.04.25-05.25.42:241][ 99]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Documents/UnrealProjects/gsareen_Project/PresentVR/SeniorDesignV1/Saved/Autosaves/Game/Blueprints/MyGameMode_Auto3.uasset
+[2018.04.25-05.25.42:241][ 99]LogFileHelpers: Auto-saving content packages took 0.032
