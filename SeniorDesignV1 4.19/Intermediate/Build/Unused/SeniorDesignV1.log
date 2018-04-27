@@ -1,0 +1,2 @@
+﻿  The system cannot find the path specified.
+D:\Visual Studio\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(39,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.19\Engine\Build\BatchFiles\Clean.bat" SeniorDesignV1Editor Win64 Development "D:\Developer\PresentVR\SeniorDesignV1 4.19\SeniorDesignV1.uproject" -WaitMutex -FromMsBuild" exited with code 3.

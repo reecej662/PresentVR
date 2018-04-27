@@ -1,7 +1,7 @@
-C:\Users\VRBC\Desktop\rjackson\PresentVR\SeniorDesignV1 4.19\Source\SeniorDesignV1\SeniorDesignV1.Build.cs
-C:\Users\VRBC\Desktop\rjackson\PresentVR\SeniorDesignV1 4.19\Plugins\socketio-client-ue4\Source\CoreUtility\CoreUtility.Build.cs
-C:\Users\VRBC\Desktop\rjackson\PresentVR\SeniorDesignV1 4.19\Plugins\socketio-client-ue4\Source\SIOJEditorPlugin\SIOJEditorPlugin.Build.cs
-C:\Users\VRBC\Desktop\rjackson\PresentVR\SeniorDesignV1 4.19\Plugins\socketio-client-ue4\Source\SIOJson\SIOJson.Build.cs
-C:\Users\VRBC\Desktop\rjackson\PresentVR\SeniorDesignV1 4.19\Plugins\socketio-client-ue4\Source\SocketIOClient\SocketIOClient.Build.cs
-C:\Users\VRBC\Desktop\rjackson\PresentVR\SeniorDesignV1 4.19\Source\SeniorDesignV1.Target.cs
-C:\Users\VRBC\Desktop\rjackson\PresentVR\SeniorDesignV1 4.19\Source\SeniorDesignV1Editor.Target.cs
+D:\Developer\PresentVR\SeniorDesignV1 4.19\Source\SeniorDesignV1\SeniorDesignV1.Build.cs
+D:\Developer\PresentVR\SeniorDesignV1 4.19\Plugins\socketio-client-ue4\Source\CoreUtility\CoreUtility.Build.cs
+D:\Developer\PresentVR\SeniorDesignV1 4.19\Plugins\socketio-client-ue4\Source\SIOJEditorPlugin\SIOJEditorPlugin.Build.cs
+D:\Developer\PresentVR\SeniorDesignV1 4.19\Plugins\socketio-client-ue4\Source\SIOJson\SIOJson.Build.cs
+D:\Developer\PresentVR\SeniorDesignV1 4.19\Plugins\socketio-client-ue4\Source\SocketIOClient\SocketIOClient.Build.cs
+D:\Developer\PresentVR\SeniorDesignV1 4.19\Source\SeniorDesignV1.Target.cs
+D:\Developer\PresentVR\SeniorDesignV1 4.19\Source\SeniorDesignV1Editor.Target.cs
