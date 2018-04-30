@@ -1,0 +1,1219 @@
+﻿Log file open, 04/29/18 11:37:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SeniorDesignV1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2052719348) SRandInit(2052719348).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172043
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin SocketIOClient
+LogStreaming: Display: Took  0.074s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../Developer/PresentVR/SeniorDesignV1 4.19/Binaries/Win64/UE4Editor-SeniorDesignV1.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../Developer/PresentVR/SeniorDesignV1 4.19/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SocketIOClient.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../Developer/PresentVR/SeniorDesignV1 4.19/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SIOJson.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../Developer/PresentVR/SeniorDesignV1 4.19/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-CoreUtility.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../Developer/PresentVR/SeniorDesignV1 4.19/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SIOJEditorPlugin.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am HamiltonsPC (192.168.1.156:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.29-18.37.05:254][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.29-18.37.05:254][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.29-18.37.05:270][  0]LogInit: Computer: HAMILTONSPC
+[2018.04.29-18.37.05:270][  0]LogInit: User: HamiltonCoke
+[2018.04.29-18.37.05:270][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.29-18.37.05:270][  0]LogInit: High frequency timer resolution =3.421879 MHz
+[2018.04.29-18.37.05:270][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.04.29-18.37.05:270][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.29-18.37.05:270][  0]LogMemory: Process Physical Memory: 275.61 MB used, 275.61 MB peak
+[2018.04.29-18.37.05:270][  0]LogMemory: Process Virtual Memory: 268.27 MB used, 268.27 MB peak
+[2018.04.29-18.37.05:270][  0]LogMemory: Physical Memory: 5845.50 MB used,  10426.51 MB free, 16272.01 MB total
+[2018.04.29-18.37.05:270][  0]LogMemory: Virtual Memory: 691.14 MB used,  10426.51 MB free, 134217728.00 MB total
+[2018.04.29-18.37.05:286][  0]LogInit: Using OS detected language (en-US).
+[2018.04.29-18.37.05:286][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.29-18.37.05:288][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.29-18.37.05:698][  0]LogStreaming: Display: Took  0.411s to EndInitTextLocalization.
+[2018.04.29-18.37.05:698][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.29-18.37.05:778][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.29-18.37.05:778][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.29-18.37.05:918][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.29-18.37.05:961][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.04.29-18.37.05:961][  0]LogD3D11RHI:       8096/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.29-18.37.05:968][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.04.29-18.37.05:968][  0]LogD3D11RHI:       128/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.04.29-18.37.05:970][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.29-18.37.05:970][  0]LogD3D11RHI:       0/0/8136 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.29-18.37.05:970][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.29-18.37.05:978][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.29-18.37.05:978][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.29-18.37.05:978][  0]LogWindows: EnumDisplayDevices:
+[2018.04.29-18.37.05:978][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.04.29-18.37.05:978][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.29-18.37.05:978][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.29-18.37.05:978][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.04.29-18.37.05:978][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2018.04.29-18.37.05:979][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.29-18.37.05:979][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.29-18.37.05:979][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.29-18.37.05:979][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.04.29-18.37.05:979][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.29-18.37.05:979][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.29-18.37.05:979][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.04.29-18.37.05:999][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.29-18.37.05:999][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.29-18.37.05:999][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.29-18.37.06:069][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.04.29-18.37.06:117][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../Developer/PresentVR/SeniorDesignV1 4.19/Intermediate/Shaders/WorkingDirectory/4400/).
+[2018.04.29-18.37.06:118][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Hamilton Coke/AppData/Local/Temp/UnrealShaderWorkingDir/52B3C4D64D23CF632A4C80B22DEDBCF5/'.
+[2018.04.29-18.37.06:328][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.29-18.37.06:339][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.29-18.37.06:351][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.29-18.37.06:362][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.29-18.37.06:373][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.29-18.37.06:384][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.29-18.37.06:395][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.29-18.37.06:406][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.29-18.37.06:411][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.29-18.37.06:422][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.29-18.37.06:433][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.29-18.37.06:444][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.29-18.37.06:456][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.29-18.37.06:466][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.29-18.37.06:477][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.29-18.37.06:499][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.29-18.37.06:499][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.29-18.37.06:511][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.29-18.37.06:512][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.29-18.37.06:547][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.29-18.37.06:559][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.29-18.37.06:571][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.29-18.37.06:583][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.29-18.37.06:594][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.29-18.37.06:607][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.29-18.37.06:607][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.29-18.37.06:680][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.29-18.37.06:680][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.29-18.37.06:680][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.29-18.37.07:321][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.29-18.37.07:392][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Hamilton Coke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.29-18.37.07:392][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Hamilton Coke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.29-18.37.07:393][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Developer/PresentVR/SeniorDesignV1 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.29-18.37.07:393][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.29-18.37.07:393][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Developer/PresentVR/SeniorDesignV1 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.29-18.37.07:393][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.29-18.37.07:409][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.29-18.37.07:421][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Hamilton Coke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.29-18.37.07:433][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.29-18.37.07:433][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.29-18.37.07:433][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.29-18.37.07:433][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.29-18.37.07:536][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.04.29-18.37.07:828][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.29-18.37.07:951][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.29-18.37.07:953][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.29-18.37.07:953][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.29-18.37.07:953][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.29-18.37.07:953][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.29-18.37.07:953][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.29-18.37.07:981][  0]LogNetVersion: SeniorDesignV1 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 838868365)
+[2018.04.29-18.37.08:398][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.079580 seconds
+[2018.04.29-18.37.08:406][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.29-18.37.08:406][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.29-18.37.08:406][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.29-18.37.09:840][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.29-18.37.09:865][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.29-18.37.10:169][  0]SourceControl: Source control is disabled
+[2018.04.29-18.37.10:169][  0]SourceControl: Source control is disabled
+[2018.04.29-18.37.10:182][  0]SourceControl: Source control is disabled
+[2018.04.29-18.37.10:195][  0]SourceControl: Source control is disabled
+[2018.04.29-18.37.10:537][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.29-18.37.10:716][  0]LogOcInput: OculusInput pre-init called
+[2018.04.29-18.37.10:821][  0]LogEngine: Initializing Engine...
+[2018.04.29-18.37.10:822][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.29-18.37.10:823][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.29-18.37.10:824][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.29-18.37.11:026][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.29-18.37.11:047][  0]LogInit: XAudio2 using '42 TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.29-18.37.11:072][  0]LogInit: FAudioDevice initialized.
+[2018.04.29-18.37.11:160][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/Hamilton Coke/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.29-18.37.11:171][  0]LogInit: Texture streaming: Enabled
+[2018.04.29-18.37.11:183][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.29-18.37.11:193][  0]LogInit: Transaction tracking system initialized
+[2018.04.29-18.37.11:208][  0]BlueprintLog: New page: Editor Load
+[2018.04.29-18.37.11:260][  0]LocalizationService: Localization service is disabled
+[2018.04.29-18.37.11:328][  0]LogConsoleResponse: Display: 
+[2018.04.29-18.37.11:472][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.29-18.37.11:472][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.29-18.37.11:473][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.29-18.37.11:473][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.29-18.37.11:473][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.29-18.37.11:712][  0]LogFileCache: Scanning file cache for directory 'D:/Developer/PresentVR/SeniorDesignV1 4.19/Content/' took 0.02s
+[2018.04.29-18.37.11:712][  0]SourceControl: Source control is disabled
+[2018.04.29-18.37.11:712][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.29-18.37.11:712][  0]LightingResults: New page: Lighting Build
+[2018.04.29-18.37.11:714][  0]MapCheck: New page: Map Check
+[2018.04.29-18.37.11:714][  0]LightingResults: New page: Lighting Build
+[2018.04.29-18.37.11:897][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.29-18.37.11:901][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.29-18.37.11:914][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.29-18.37.11:948][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33.058ms to complete.
+[2018.04.29-18.37.11:948][  0]LogFileHelpers: Loading map 'Template_Default' took 0.235
+[2018.04.29-18.37.12:100][  0]LogCollectionManager: Loaded 0 collections in 0.000812 seconds
+[2018.04.29-18.37.12:143][  0]LogFileCache: Scanning file cache for directory 'D:/Developer/PresentVR/SeniorDesignV1 4.19/Saved/Collections/' took 0.01s
+[2018.04.29-18.37.12:143][  0]LogFileCache: Scanning file cache for directory 'D:/Developer/PresentVR/SeniorDesignV1 4.19/Content/Developers/HamiltonCoke/Collections/' took 0.01s
+[2018.04.29-18.37.12:143][  0]LogFileCache: Scanning file cache for directory 'D:/Developer/PresentVR/SeniorDesignV1 4.19/Content/Collections/' took 0.01s
+[2018.04.29-18.37.12:143][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.29-18.37.12:152][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2462 classes and 567 folders.
+[2018.04.29-18.37.12:157][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.29-18.37.12:499][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.29-18.37.12:503][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.04.29-18.37.12:521][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.29-18.37.12:523][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.29-18.37.12:536][  0]LogSlate: Took 0.006088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.29-18.37.12:688][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.29-18.37.12:814][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.04.29-18.37.12:814][  0]LogLoad: (Engine Initialization) Total time: 11.95 seconds
+[2018.04.29-18.37.12:814][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.29-18.37.12:823][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.29-18.37.12:843][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.29-18.37.12:888][  0]LogSlate: Took 0.004032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.29-18.37.12:917][  1]LogAssetRegistry: Asset discovery search completed in 5.4039 seconds
+[2018.04.29-18.37.12:919][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.29-18.37.12:919][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.04.29-18.37.17:777][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-18.37.29:669][945]Cmd: MAP LOAD FILE="../../../../Developer/PresentVR/SeniorDesignV1 4.19/Content/levels/Clsasroom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.29-18.37.29:675][945]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.29-18.37.29:689][945]LightingResults: New page: Lighting Build
+[2018.04.29-18.37.29:690][945]LoadErrors: New page: Loading map: Clsasroom.umap
+[2018.04.29-18.37.29:693][945]MapCheck: New page: Map Check
+[2018.04.29-18.37.29:693][945]LightingResults: New page: Lighting Build
+[2018.04.29-18.37.30:688][945]LogSkeletalMesh: Skeletal Mesh found in DDC [5.298551ms] /Game/people/female4/female4_sitting.female4_sitting
+[2018.04.29-18.37.30:704][945]LogSkeletalMesh: Skeletal Mesh found in DDC [5.047812ms] /Game/people/male2/male2_sitting.male2_sitting
+[2018.04.29-18.37.30:719][945]LogSkeletalMesh: Skeletal Mesh found in DDC [4.563575ms] /Game/people/female5/female5_sitting.female5_sitting
+[2018.04.29-18.37.30:789][945]LogSkeletalMesh: Skeletal Mesh found in DDC [5.401126ms] /Game/people/male3/male3_sitting.male3_sitting
+[2018.04.29-18.37.30:805][945]LogSkeletalMesh: Skeletal Mesh found in DDC [5.111811ms] /Game/people/male4/male4_sitting.male4_sitting
+[2018.04.29-18.37.30:828][945]LogSkeletalMesh: Skeletal Mesh found in DDC [6.059244ms] /Game/female1_sitting.female1_sitting
+[2018.04.29-18.37.30:869][945]LogSkeletalMesh: Skeletal Mesh found in DDC [4.335922ms] /Game/people/female3/female3_sitting.female3_sitting
+[2018.04.29-18.37.30:905][945]LogSkeletalMesh: Skeletal Mesh found in DDC [5.122916ms] /Game/people/male5/male5_sitting.male5_sitting
+[2018.04.29-18.37.31:114][945]LogSkeletalMesh: Skeletal Mesh found in DDC [8.020740ms] /Game/people/female2/female2_sitting.female2_sitting
+[2018.04.29-18.37.31:129][945]LogSkeletalMesh: Skeletal Mesh found in DDC [4.312835ms] /Game/male1_sitting.male1_sitting
+[2018.04.29-18.37.31:259][945]LogAIModule: Creating AISystem for world Clsasroom
+[2018.04.29-18.37.31:288][945]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.29-18.37.31:331][945]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.29-18.37.31:371][945]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40.379ms to complete.
+[2018.04.29-18.37.31:372][945]LogFileHelpers: Loading map 'Clsasroom' took 1.704
+[2018.04.29-18.37.31:374][945]LogSlate: Window 'Open Level' being destroyed
+[2018.04.29-18.37.31:431][945]LogSkeletalMesh: Skeletal Mesh found in DDC [10.866252ms] /Game/animations/sittingYell/Sitting_Yell__2_.Sitting_Yell__2_
+[2018.04.29-18.37.47:363][650]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (female3_sitting_Anim_mixamo_com)
+[2018.04.29-18.37.53:144][ 17]LogSlate: Took 0.007705 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.29-18.37.54:734][156]LogEditorViewport: Clicking on Actor (LMB): AudiencePawn_C (AudiencePawn)
+[2018.04.29-18.37.59:544][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-18.38.06:518][974]LogAnimation: Warning: Animation female1_sitting_Anim_mixamo_com is incompatible with skeleton Sitting_Yell__2__Skeleton, removing animation from actor.
+[2018.04.29-18.38.16:618][624]LogSkeletalMesh: Skeletal Mesh found in DDC [4.072908ms] /Game/people/female1/female_1.female_1
+[2018.04.29-18.38.16:651][624]LogAnimation: Warning: Animation female1_sitting_Anim_mixamo_com is incompatible with skeleton female_1_Skeleton, removing animation from actor.
+[2018.04.29-18.38.23:235][ 17]LogAnimation: Warning: Animation female1_sitting_Anim_mixamo_com is incompatible with skeleton female2_sitting_Skeleton, removing animation from actor.
+[2018.04.29-18.38.25:785][161]LogAnimation: Warning: Animation female1_sitting_Anim_mixamo_com is incompatible with skeleton female3_sitting_Skeleton, removing animation from actor.
+[2018.04.29-18.38.28:631][327]LogAnimation: Warning: Animation female1_sitting_Anim_mixamo_com is incompatible with skeleton female_1_Skeleton, removing animation from actor.
+[2018.04.29-18.41.04:630][239]LogAssetTools: Warning: Failed to import 'C:\Users\Hamilton Coke\Downloads\Sitting.fbx.crdownload'. Unknown extension 'crdownload'.
+[2018.04.29-18.41.15:943][273]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Hamilton Coke\Downloads\Sitting.fbx)
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: Model, ItemCount : 75
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: Geometry, ItemCount : 117
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: Deformer, ItemCount : 235
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: Texture, ItemCount : 30
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: Video, ItemCount : 30
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: Material, ItemCount : 6
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.04.29-18.41.16:024][273]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.04.29-18.41.16:029][273]LogFbx: Loading FBX Scene from C:\Users\Hamilton Coke\Downloads\Sitting.fbx
+[2018.04.29-18.41.16:404][273]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.29-18.41.26:477][273]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.29-18.41.26:572][273]LogFbx: Loading FBX Scene from C:\Users\Hamilton Coke\Downloads\Sitting.fbx
+[2018.04.29-18.41.26:916][273]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.29-18.41.26:920][273]LogFbx: =================================================
+[2018.04.29-18.41.26:920][273]LogFbx: Dumping Node START [Eyes] 
+[2018.04.29-18.41.26:920][273]LogFbx: 	Total Deformer Count -1262968896.
+[2018.04.29-18.41.26:920][273]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.04.29-18.41.26:920][273]LogFbx: =================================================
+[2018.04.29-18.41.26:920][273]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.04.29-18.41.26:920][273]LogFbx: =================================================
+[2018.04.29-18.41.26:920][273]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2018.04.29-18.41.26:920][273]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.04.29-18.41.26:920][273]LogFbx: Dumping Node END [Eyes]
+[2018.04.29-18.41.26:920][273]LogFbx: =================================================
+[2018.04.29-18.41.26:920][273]LogFbx: Dumping Node START [default] 
+[2018.04.29-18.41.26:920][273]LogFbx: 	Total Deformer Count 327719632.
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node END [default]
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node START [Body] 
+[2018.04.29-18.41.26:921][273]LogFbx: 	Total Deformer Count -1262968896.
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node END [Body]
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node START [Tops] 
+[2018.04.29-18.41.26:921][273]LogFbx: 	Total Deformer Count -1262968896.
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node END [Tops]
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node START [Hats] 
+[2018.04.29-18.41.26:921][273]LogFbx: 	Total Deformer Count -1262968896.
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: 	Attribute (Hatsmesh) Type (4).
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node Attribute Child 1] Hats (Type Mesh).
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node END [Hats]
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node START [Hair] 
+[2018.04.29-18.41.26:921][273]LogFbx: 	Total Deformer Count -1262968896.
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node END [Hair]
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node START [Bottoms] 
+[2018.04.29-18.41.26:921][273]LogFbx: 	Total Deformer Count 327721536.
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node END [Bottoms]
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node START [Shoes] 
+[2018.04.29-18.41.26:921][273]LogFbx: 	Total Deformer Count -1262968896.
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.41.26:921][273]LogFbx: =================================================
+[2018.04.29-18.41.26:921][273]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2018.04.29-18.41.26:921][273]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.04.29-18.41.26:921][273]LogFbx: Dumping Node END [Shoes]
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node START [Eyes] 
+[2018.04.29-18.41.26:922][273]LogFbx: 	Total Deformer Count -1262968896.
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node END [Eyes]
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node START [default] 
+[2018.04.29-18.41.26:922][273]LogFbx: 	Total Deformer Count 327719632.
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node END [default]
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node START [Body] 
+[2018.04.29-18.41.26:922][273]LogFbx: 	Total Deformer Count -1262968896.
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node END [Body]
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node START [Tops] 
+[2018.04.29-18.41.26:922][273]LogFbx: 	Total Deformer Count -1262968896.
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node END [Tops]
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node START [Hats] 
+[2018.04.29-18.41.26:922][273]LogFbx: 	Total Deformer Count -1262968896.
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: 	Attribute (Hatsmesh) Type (4).
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node Attribute Child 1] Hats (Type Mesh).
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node END [Hats]
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node START [Hair] 
+[2018.04.29-18.41.26:922][273]LogFbx: 	Total Deformer Count -1262968896.
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node END [Hair]
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node START [Bottoms] 
+[2018.04.29-18.41.26:922][273]LogFbx: 	Total Deformer Count 327721536.
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node END [Bottoms]
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node START [Shoes] 
+[2018.04.29-18.41.26:922][273]LogFbx: 	Total Deformer Count -1262968896.
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.41.26:922][273]LogFbx: =================================================
+[2018.04.29-18.41.26:922][273]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2018.04.29-18.41.26:922][273]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.04.29-18.41.26:922][273]LogFbx: Dumping Node END [Shoes]
+[2018.04.29-18.41.26:925][273]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node Eyes : The relative matrices do not match
+[2018.04.29-18.41.26:926][273]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node default : The relative matrices do not match
+[2018.04.29-18.41.26:926][273]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node Body : The relative matrices do not match
+[2018.04.29-18.41.26:927][273]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node Tops : The relative matrices do not match
+[2018.04.29-18.41.26:927][273]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node Hats : The relative matrices do not match
+[2018.04.29-18.41.26:928][273]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node Hair : The relative matrices do not match
+[2018.04.29-18.41.26:929][273]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node Bottoms : The relative matrices do not match
+[2018.04.29-18.41.26:930][273]LogFbx: Warning: Not valid bind pose for Pose (BindPose) - Node Shoes : The relative matrices do not match
+[2018.04.29-18.41.26:930][273]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2018.04.29-18.41.26:931][273]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Eyes
+[2018.04.29-18.41.26:931][273]LogFbx: Warning: Recreating bind pose succeeded.
+[2018.04.29-18.41.26:933][273]LogMaterial: Warning: Material /Game/temp/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.29-18.41.26:934][273]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.29-18.41.26:974][273]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.29-18.41.26:974][273]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.29-18.41.26:974][273]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.29-18.41.26:975][273]LogLinker: Can't find file '/Game/temp/Malcom_Body_Diffuse'
+[2018.04.29-18.41.26:975][273]LogLinker: Can't find file '/Game/temp/Malcom_Body_Diffuse'
+[2018.04.29-18.41.27:163][273]LogTexture: Display: Building textures: Malcom_Body_Diffuse (AutoDXT, 1024X1024)
+[2018.04.29-18.41.27:901][273]LogLinker: Can't find file '/Game/temp/Malcom_Body_Specular'
+[2018.04.29-18.41.27:901][273]LogLinker: Can't find file '/Game/temp/Malcom_Body_Specular'
+[2018.04.29-18.41.28:018][273]LogTexture: Display: Building textures: Malcom_Body_Specular (AutoDXT, 1024X1024)
+[2018.04.29-18.41.28:261][273]LogLinker: Can't find file '/Game/temp/Malcom_Body_Gloss'
+[2018.04.29-18.41.28:262][273]LogLinker: Can't find file '/Game/temp/Malcom_Body_Gloss'
+[2018.04.29-18.41.28:366][273]LogTexture: Display: Building textures: Malcom_Body_Gloss (AutoDXT, 1024X1024)
+[2018.04.29-18.41.28:660][273]LogLinker: Can't find file '/Game/temp/Malcom_Body_Normal'
+[2018.04.29-18.41.28:660][273]LogLinker: Can't find file '/Game/temp/Malcom_Body_Normal'
+[2018.04.29-18.41.28:781][273]LogTexture: Display: Building textures: Malcom_Body_Normal (BC5, 1024X1024)
+[2018.04.29-18.41.28:948][273]LogLinker: Can't find file '/Game/temp/Malcom_Body_Opacity'
+[2018.04.29-18.41.28:948][273]LogLinker: Can't find file '/Game/temp/Malcom_Body_Opacity'
+[2018.04.29-18.41.29:032][273]LogTexture: Display: Building textures: Malcom_Body_Opacity (AutoDXT, 1024X1024)
+[2018.04.29-18.41.29:177][273]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2018.04.29-18.41.29:261][273]LogFbx: Triangulating skeletal mesh Eyes
+[2018.04.29-18.41.29:309][273]LogFbx: Triangulating skeletal mesh default
+[2018.04.29-18.41.29:313][273]LogFbx: Triangulating skeletal mesh Body
+[2018.04.29-18.41.29:794][273]LogMaterial: Warning: Material /Game/temp/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.29-18.41.29:795][273]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.29-18.41.29:813][273]LogLinker: Can't find file '/Game/temp/Malcom_Top_Diffuse'
+[2018.04.29-18.41.29:813][273]LogLinker: Can't find file '/Game/temp/Malcom_Top_Diffuse'
+[2018.04.29-18.41.29:932][273]LogTexture: Display: Building textures: Malcom_Top_Diffuse (AutoDXT, 1024X1024)
+[2018.04.29-18.41.30:758][273]LogShaderCompilers: Display: Shaders left to compile 147
+[2018.04.29-18.41.30:758][273]LogShaderCompilers: Display: Shaders left to compile 137
+[2018.04.29-18.41.30:769][273]LogLinker: Can't find file '/Game/temp/Malcom_Top_Specular'
+[2018.04.29-18.41.30:770][273]LogLinker: Can't find file '/Game/temp/Malcom_Top_Specular'
+[2018.04.29-18.41.30:857][273]LogTexture: Display: Building textures: Malcom_Top_Specular (AutoDXT, 1024X1024)
+[2018.04.29-18.41.30:932][273]LogLinker: Can't find file '/Game/temp/Malcom_Top_Gloss'
+[2018.04.29-18.41.30:932][273]LogLinker: Can't find file '/Game/temp/Malcom_Top_Gloss'
+[2018.04.29-18.41.31:033][273]LogTexture: Display: Building textures: Malcom_Top_Gloss (AutoDXT, 1024X1024)
+[2018.04.29-18.41.31:155][273]LogShaderCompilers: Display: Shaders left to compile 127
+[2018.04.29-18.41.31:158][273]LogLinker: Can't find file '/Game/temp/Malcom_Top_Normal'
+[2018.04.29-18.41.31:158][273]LogLinker: Can't find file '/Game/temp/Malcom_Top_Normal'
+[2018.04.29-18.41.31:313][273]LogTexture: Display: Building textures: Malcom_Top_Normal (BC5, 1024X1024)
+[2018.04.29-18.41.31:477][273]LogLinker: Can't find file '/Game/temp/Malcom_Top_Opacity'
+[2018.04.29-18.41.31:477][273]LogLinker: Can't find file '/Game/temp/Malcom_Top_Opacity'
+[2018.04.29-18.41.31:572][273]LogTexture: Display: Building textures: Malcom_Top_Opacity (AutoDXT, 1024X1024)
+[2018.04.29-18.41.31:671][273]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2018.04.29-18.41.31:724][273]LogFbx: Triangulating skeletal mesh Tops
+[2018.04.29-18.41.31:886][273]LogMaterial: Warning: Material /Game/temp/Hatmat.Hatmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.29-18.41.31:888][273]LogMaterial: Missing cached shader map for material Hatmat, compiling. 
+[2018.04.29-18.41.31:918][273]LogLinker: Can't find file '/Game/temp/Malcom_Hat_Diffuse'
+[2018.04.29-18.41.31:918][273]LogLinker: Can't find file '/Game/temp/Malcom_Hat_Diffuse'
+[2018.04.29-18.41.32:025][273]LogTexture: Display: Building textures: Malcom_Hat_Diffuse (AutoDXT, 512X512)
+[2018.04.29-18.41.32:304][273]LogLinker: Can't find file '/Game/temp/Malcom_Hat_Specular'
+[2018.04.29-18.41.32:304][273]LogLinker: Can't find file '/Game/temp/Malcom_Hat_Specular'
+[2018.04.29-18.41.32:397][273]LogTexture: Display: Building textures: Malcom_Hat_Specular (AutoDXT, 512X512)
+[2018.04.29-18.41.32:418][273]LogLinker: Can't find file '/Game/temp/Malcom_Hat_Gloss'
+[2018.04.29-18.41.32:418][273]LogLinker: Can't find file '/Game/temp/Malcom_Hat_Gloss'
+[2018.04.29-18.41.32:518][273]LogTexture: Display: Building textures: Malcom_Hat_Gloss (AutoDXT, 512X512)
+[2018.04.29-18.41.32:593][273]LogLinker: Can't find file '/Game/temp/Malcom_Hat_Normal'
+[2018.04.29-18.41.32:593][273]LogLinker: Can't find file '/Game/temp/Malcom_Hat_Normal'
+[2018.04.29-18.41.32:702][273]LogTexture: Display: Building textures: Malcom_Hat_Normal (BC5, 512X512)
+[2018.04.29-18.41.32:746][273]LogLinker: Can't find file '/Game/temp/Malcom_Hat_Opacity'
+[2018.04.29-18.41.32:746][273]LogLinker: Can't find file '/Game/temp/Malcom_Hat_Opacity'
+[2018.04.29-18.41.32:838][273]LogShaderCompilers: Display: Shaders left to compile 204
+[2018.04.29-18.41.32:842][273]LogTexture: Display: Building textures: Malcom_Hat_Opacity (AutoDXT, 512X512)
+[2018.04.29-18.41.32:891][273]LogMaterial: Missing cached shader map for material Hatmat, compiling. 
+[2018.04.29-18.41.32:913][273]LogFbx: Triangulating skeletal mesh Hats
+[2018.04.29-18.41.32:952][273]LogMaterial: Warning: Material /Game/temp/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.29-18.41.32:954][273]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2018.04.29-18.41.32:971][273]LogLinker: Can't find file '/Game/temp/Malcom_Hair_Diffuse'
+[2018.04.29-18.41.32:971][273]LogLinker: Can't find file '/Game/temp/Malcom_Hair_Diffuse'
+[2018.04.29-18.41.33:093][273]LogTexture: Display: Building textures: Malcom_Hair_Diffuse (AutoDXT, 1024X1024)
+[2018.04.29-18.41.33:407][273]LogLinker: Can't find file '/Game/temp/Malcom_Hair_Specular'
+[2018.04.29-18.41.33:407][273]LogLinker: Can't find file '/Game/temp/Malcom_Hair_Specular'
+[2018.04.29-18.41.33:519][273]LogTexture: Display: Building textures: Malcom_Hair_Specular (AutoDXT, 512X512)
+[2018.04.29-18.41.33:582][273]LogLinker: Can't find file '/Game/temp/Malcom_Hair_Gloss'
+[2018.04.29-18.41.33:582][273]LogLinker: Can't find file '/Game/temp/Malcom_Hair_Gloss'
+[2018.04.29-18.41.33:693][273]LogTexture: Display: Building textures: Malcom_Hair_Gloss (AutoDXT, 512X512)
+[2018.04.29-18.41.33:771][273]LogLinker: Can't find file '/Game/temp/Malcom_Hair_Normal'
+[2018.04.29-18.41.33:772][273]LogLinker: Can't find file '/Game/temp/Malcom_Hair_Normal'
+[2018.04.29-18.41.33:847][273]LogTexture: Display: Building textures: Malcom_Hair_Normal (BC5, 512X512)
+[2018.04.29-18.41.33:892][273]LogLinker: Can't find file '/Game/temp/Malcom_Hair_Opacity'
+[2018.04.29-18.41.33:892][273]LogLinker: Can't find file '/Game/temp/Malcom_Hair_Opacity'
+[2018.04.29-18.41.34:030][273]LogTexture: Display: Building textures: Malcom_Hair_Opacity (AutoDXT, 1024X1024)
+[2018.04.29-18.41.34:456][273]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2018.04.29-18.41.34:502][273]LogFbx: Triangulating skeletal mesh Hair
+[2018.04.29-18.41.34:596][273]LogMaterial: Warning: Material /Game/temp/Bottommat.Bottommat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.29-18.41.34:597][273]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.29-18.41.34:618][273]LogLinker: Can't find file '/Game/temp/Malcom_Bottom_Diffuse'
+[2018.04.29-18.41.34:618][273]LogLinker: Can't find file '/Game/temp/Malcom_Bottom_Diffuse'
+[2018.04.29-18.41.34:734][273]LogTexture: Display: Building textures: Malcom_Bottom_Diffuse (AutoDXT, 1024X1024)
+[2018.04.29-18.41.35:829][273]LogShaderCompilers: Display: Shaders left to compile 368
+[2018.04.29-18.41.35:853][273]LogLinker: Can't find file '/Game/temp/Malcom_Bottom_Specular'
+[2018.04.29-18.41.35:853][273]LogLinker: Can't find file '/Game/temp/Malcom_Bottom_Specular'
+[2018.04.29-18.41.35:977][273]LogShaderCompilers: Display: Shaders left to compile 358
+[2018.04.29-18.41.35:981][273]LogTexture: Display: Building textures: Malcom_Bottom_Specular (AutoDXT, 1024X1024)
+[2018.04.29-18.41.36:081][273]LogLinker: Can't find file '/Game/temp/Malcom_Bottom_Gloss'
+[2018.04.29-18.41.36:081][273]LogLinker: Can't find file '/Game/temp/Malcom_Bottom_Gloss'
+[2018.04.29-18.41.36:209][273]LogTexture: Display: Building textures: Malcom_Bottom_Gloss (AutoDXT, 1024X1024)
+[2018.04.29-18.41.36:461][273]LogShaderCompilers: Display: Shaders left to compile 348
+[2018.04.29-18.41.36:476][273]LogLinker: Can't find file '/Game/temp/Malcom_Bottom_Normal'
+[2018.04.29-18.41.36:477][273]LogLinker: Can't find file '/Game/temp/Malcom_Bottom_Normal'
+[2018.04.29-18.41.36:614][273]LogTexture: Display: Building textures: Malcom_Bottom_Normal (BC5, 1024X1024)
+[2018.04.29-18.41.36:804][273]LogLinker: Can't find file '/Game/temp/Malcom_Bottom_Opacity'
+[2018.04.29-18.41.36:804][273]LogLinker: Can't find file '/Game/temp/Malcom_Bottom_Opacity'
+[2018.04.29-18.41.36:915][273]LogTexture: Display: Building textures: Malcom_Bottom_Opacity (AutoDXT, 1024X1024)
+[2018.04.29-18.41.37:040][273]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2018.04.29-18.41.37:070][273]LogFbx: Triangulating skeletal mesh Bottoms
+[2018.04.29-18.41.37:196][273]LogMaterial: Warning: Material /Game/temp/Shoesmat.Shoesmat needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.29-18.41.37:197][273]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.29-18.41.37:220][273]LogLinker: Can't find file '/Game/temp/Malcom_Shoes_Diffuse'
+[2018.04.29-18.41.37:220][273]LogLinker: Can't find file '/Game/temp/Malcom_Shoes_Diffuse'
+[2018.04.29-18.41.37:329][273]LogTexture: Display: Building textures: Malcom_Shoes_Diffuse (AutoDXT, 1024X1024)
+[2018.04.29-18.41.38:967][273]LogShaderCompilers: Display: Shaders left to compile 425
+[2018.04.29-18.41.38:975][273]LogLinker: Can't find file '/Game/temp/Malcom_Shoes_Specular'
+[2018.04.29-18.41.38:975][273]LogLinker: Can't find file '/Game/temp/Malcom_Shoes_Specular'
+[2018.04.29-18.41.39:130][273]LogTexture: Display: Building textures: Malcom_Shoes_Specular (AutoDXT, 1024X1024)
+[2018.04.29-18.41.39:489][273]LogShaderCompilers: Display: Shaders left to compile 415
+[2018.04.29-18.41.39:494][273]LogLinker: Can't find file '/Game/temp/Malcom_Shoes_Gloss'
+[2018.04.29-18.41.39:494][273]LogLinker: Can't find file '/Game/temp/Malcom_Shoes_Gloss'
+[2018.04.29-18.41.39:615][273]LogTexture: Display: Building textures: Malcom_Shoes_Gloss (AutoDXT, 1024X1024)
+[2018.04.29-18.41.40:146][273]LogShaderCompilers: Display: Shaders left to compile 405
+[2018.04.29-18.41.40:154][273]LogLinker: Can't find file '/Game/temp/Malcom_Shoes_Normal'
+[2018.04.29-18.41.40:154][273]LogLinker: Can't find file '/Game/temp/Malcom_Shoes_Normal'
+[2018.04.29-18.41.40:291][273]LogTexture: Display: Building textures: Malcom_Shoes_Normal (BC5, 1024X1024)
+[2018.04.29-18.41.40:442][273]LogLinker: Can't find file '/Game/temp/Malcom_Shoes_Opacity'
+[2018.04.29-18.41.40:443][273]LogLinker: Can't find file '/Game/temp/Malcom_Shoes_Opacity'
+[2018.04.29-18.41.40:533][273]LogTexture: Display: Building textures: Malcom_Shoes_Opacity (AutoDXT, 1024X1024)
+[2018.04.29-18.41.40:649][273]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2018.04.29-18.41.40:673][273]LogFbx: Triangulating skeletal mesh Shoes
+[2018.04.29-18.41.40:809][273]LogFbx: Warning: Bones digested - 67  Depth of hierarchy - 12
+[2018.04.29-18.41.41:594][273]LogSkeletalMesh: Section 0: 8014 vertices, 62 active bones
+[2018.04.29-18.41.41:594][273]LogSkeletalMesh: Section 1: 2942 vertices, 13 active bones
+[2018.04.29-18.41.41:594][273]LogSkeletalMesh: Section 2: 460 vertices, 1 active bones
+[2018.04.29-18.41.41:594][273]LogSkeletalMesh: Section 3: 3378 vertices, 3 active bones
+[2018.04.29-18.41.41:594][273]LogSkeletalMesh: Section 4: 2261 vertices, 13 active bones
+[2018.04.29-18.41.41:595][273]LogSkeletalMesh: Section 5: 2926 vertices, 8 active bones
+[2018.04.29-18.41.41:698][273]LogSkeletalMesh: Section 0: Material=0, 13850 triangles
+[2018.04.29-18.41.41:698][273]LogSkeletalMesh: Section 1: Material=1, 5186 triangles
+[2018.04.29-18.41.41:698][273]LogSkeletalMesh: Section 2: Material=2, 778 triangles
+[2018.04.29-18.41.41:698][273]LogSkeletalMesh: Section 3: Material=3, 3076 triangles
+[2018.04.29-18.41.41:698][273]LogSkeletalMesh: Section 4: Material=4, 4004 triangles
+[2018.04.29-18.41.41:698][273]LogSkeletalMesh: Section 5: Material=5, 4520 triangles
+[2018.04.29-18.41.41:699][273]LogSkeletalMesh: Building Skeletal Mesh Sitting...
+[2018.04.29-18.41.41:744][273]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/temp/Sitting.Sitting
+[2018.04.29-18.41.42:357][273]LogShaderCompilers: Display: Shaders left to compile 422
+[2018.04.29-18.41.42:874][273]LogShaderCompilers: Display: Shaders left to compile 412
+[2018.04.29-18.41.42:891][273]LogShaderCompilers: Display: Shaders left to compile 402
+[2018.04.29-18.41.45:145][273]LogShaderCompilers: Display: Shaders left to compile 392
+[2018.04.29-18.41.45:261][273]LogShaderCompilers: Display: Shaders left to compile 382
+[2018.04.29-18.41.45:574][273]LogShaderCompilers: Display: Shaders left to compile 372
+[2018.04.29-18.41.47:268][273]LogShaderCompilers: Display: Shaders left to compile 362
+[2018.04.29-18.41.48:155][273]LogShaderCompilers: Display: Shaders left to compile 352
+[2018.04.29-18.41.48:307][273]LogShaderCompilers: Display: Shaders left to compile 342
+[2018.04.29-18.41.49:671][273]LogShaderCompilers: Display: Shaders left to compile 332
+[2018.04.29-18.41.49:958][273]LogShaderCompilers: Display: Shaders left to compile 322
+[2018.04.29-18.41.50:817][273]LogShaderCompilers: Display: Shaders left to compile 312
+[2018.04.29-18.41.51:948][273]LogShaderCompilers: Display: Shaders left to compile 302
+[2018.04.29-18.41.52:256][273]LogSlate: Window 'Message' being destroyed
+[2018.04.29-18.41.52:280][273]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/female1_sitting_Anim_mixamo_com.female1_sitting_Anim_mixamo_com
+[2018.04.29-18.41.52:281][273]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.female1_sitting_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.29-18.41.52:397][273]LogShaderCompilers: Display: Shaders left to compile 292
+[2018.04.29-18.41.53:847][273]LogShaderCompilers: Display: Shaders left to compile 282
+[2018.04.29-18.41.54:778][273]LogShaderCompilers: Display: Shaders left to compile 272
+[2018.04.29-18.41.55:034][273]LogShaderCompilers: Display: Shaders left to compile 262
+[2018.04.29-18.41.56:456][273]LogShaderCompilers: Display: Shaders left to compile 252
+[2018.04.29-18.41.56:572][273]LogShaderCompilers: Display: Shaders left to compile 242
+[2018.04.29-18.41.57:476][273]LogShaderCompilers: Display: Shaders left to compile 232
+[2018.04.29-18.41.58:787][273]LogShaderCompilers: Display: Shaders left to compile 222
+[2018.04.29-18.41.59:393][273]LogShaderCompilers: Display: Shaders left to compile 212
+[2018.04.29-18.41.59:393][273]LogShaderCompilers: Display: Shaders left to compile 202
+[2018.04.29-18.42.00:684][273]LogSlate: Window 'Message' being destroyed
+[2018.04.29-18.42.02:032][273]LogShaderCompilers: Display: Shaders left to compile 192
+[2018.04.29-18.42.02:149][273]LogShaderCompilers: Display: Shaders left to compile 182
+[2018.04.29-18.42.02:365][273]LogShaderCompilers: Display: Shaders left to compile 172
+[2018.04.29-18.42.02:455][273]LogSlate: Window 'Message' being destroyed
+[2018.04.29-18.42.02:476][273]LogLinker: Can't find file '/Game/temp/Sitting_PhysicsAsset'
+[2018.04.29-18.42.02:476][273]LogLinker: Can't find file '/Game/temp/Sitting_PhysicsAsset'
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node START [Eyes] 
+[2018.04.29-18.42.02:485][273]LogFbx: 	Total Deformer Count 792300656.
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node END [Eyes]
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node START [default] 
+[2018.04.29-18.42.02:485][273]LogFbx: 	Total Deformer Count 791455952.
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node END [default]
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node START [Body] 
+[2018.04.29-18.42.02:485][273]LogFbx: 	Total Deformer Count 792300656.
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node END [Body]
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node START [Tops] 
+[2018.04.29-18.42.02:485][273]LogFbx: 	Total Deformer Count 792300656.
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node END [Tops]
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node START [Hats] 
+[2018.04.29-18.42.02:485][273]LogFbx: 	Total Deformer Count 792300656.
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: 	Attribute (Hatsmesh) Type (4).
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node Attribute Child 1] Hats (Type Mesh).
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node END [Hats]
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node START [Hair] 
+[2018.04.29-18.42.02:485][273]LogFbx: 	Total Deformer Count 792300656.
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node END [Hair]
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: Dumping Node START [Bottoms] 
+[2018.04.29-18.42.02:485][273]LogFbx: 	Total Deformer Count 791456008.
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.42.02:485][273]LogFbx: =================================================
+[2018.04.29-18.42.02:485][273]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2018.04.29-18.42.02:485][273]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node END [Bottoms]
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node START [Shoes] 
+[2018.04.29-18.42.02:486][273]LogFbx: 	Total Deformer Count 792300656.
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node END [Shoes]
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node START [Eyes] 
+[2018.04.29-18.42.02:486][273]LogFbx: 	Total Deformer Count 792300656.
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: 	Attribute (Eyesmesh) Type (4).
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node Attribute Child 1] Eyes (Type Mesh).
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node END [Eyes]
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node START [default] 
+[2018.04.29-18.42.02:486][273]LogFbx: 	Total Deformer Count 791455952.
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: 	Attribute (defaultmesh) Type (4).
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node Attribute Child 1] default (Type Mesh).
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node END [default]
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node START [Body] 
+[2018.04.29-18.42.02:486][273]LogFbx: 	Total Deformer Count 792300656.
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node 1]  (Type BlendShape).
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node 2] Skin (Type Skin).
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: 	Attribute (Bodymesh) Type (4).
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node Attribute Child 1] Body (Type Mesh).
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node END [Body]
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node START [Tops] 
+[2018.04.29-18.42.02:486][273]LogFbx: 	Total Deformer Count 792300656.
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: 	Attribute (Topsmesh) Type (4).
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node Attribute Child 1] Tops (Type Mesh).
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node END [Tops]
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node START [Hats] 
+[2018.04.29-18.42.02:486][273]LogFbx: 	Total Deformer Count 792300656.
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.42.02:486][273]LogFbx: =================================================
+[2018.04.29-18.42.02:486][273]LogFbx: 	Attribute (Hatsmesh) Type (4).
+[2018.04.29-18.42.02:486][273]LogFbx: 		[Node Attribute Child 1] Hats (Type Mesh).
+[2018.04.29-18.42.02:486][273]LogFbx: Dumping Node END [Hats]
+[2018.04.29-18.42.02:487][273]LogFbx: =================================================
+[2018.04.29-18.42.02:487][273]LogFbx: Dumping Node START [Hair] 
+[2018.04.29-18.42.02:487][273]LogFbx: 	Total Deformer Count 792300656.
+[2018.04.29-18.42.02:487][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.42.02:487][273]LogFbx: =================================================
+[2018.04.29-18.42.02:487][273]LogFbx: 	Attribute (Hairmesh) Type (4).
+[2018.04.29-18.42.02:487][273]LogFbx: 		[Node Attribute Child 1] Hair (Type Mesh).
+[2018.04.29-18.42.02:487][273]LogFbx: Dumping Node END [Hair]
+[2018.04.29-18.42.02:487][273]LogFbx: =================================================
+[2018.04.29-18.42.02:487][273]LogFbx: Dumping Node START [Bottoms] 
+[2018.04.29-18.42.02:487][273]LogFbx: 	Total Deformer Count 791456008.
+[2018.04.29-18.42.02:487][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.42.02:487][273]LogFbx: =================================================
+[2018.04.29-18.42.02:487][273]LogFbx: 	Attribute (Bottomsmesh) Type (4).
+[2018.04.29-18.42.02:487][273]LogFbx: 		[Node Attribute Child 1] Bottoms (Type Mesh).
+[2018.04.29-18.42.02:487][273]LogFbx: Dumping Node END [Bottoms]
+[2018.04.29-18.42.02:487][273]LogFbx: =================================================
+[2018.04.29-18.42.02:487][273]LogFbx: Dumping Node START [Shoes] 
+[2018.04.29-18.42.02:487][273]LogFbx: 	Total Deformer Count 792300656.
+[2018.04.29-18.42.02:487][273]LogFbx: 		[Node 1] Skin (Type Skin).
+[2018.04.29-18.42.02:487][273]LogFbx: =================================================
+[2018.04.29-18.42.02:487][273]LogFbx: 	Attribute (Shoesmesh) Type (4).
+[2018.04.29-18.42.02:487][273]LogFbx: 		[Node Attribute Child 1] Shoes (Type Mesh).
+[2018.04.29-18.42.02:487][273]LogFbx: Dumping Node END [Shoes]
+[2018.04.29-18.42.02:488][273]LogFbx: SortedLinks :(0) Hips
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(1) Spine
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(2) Spine1
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(3) Spine2
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(4) Neck
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(5) Head
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(7) RightEye
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(8) LeftEye
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(9) LeftShoulder
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(10) LeftArm
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(11) LeftForeArm
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(12) LeftHand
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(25) LeftHandRing1
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(26) LeftHandRing2
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(27) LeftHandRing3
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(28) LeftHandRing4
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(33) RightShoulder
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(34) RightArm
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(35) RightForeArm
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(36) RightHand
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(41) RightHandThumb1
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(42) RightHandThumb2
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(43) RightHandThumb3
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(44) RightHandThumb4
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(45) RightHandIndex1
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(46) RightHandIndex2
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(47) RightHandIndex3
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(48) RightHandIndex4
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(49) RightHandRing1
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(50) RightHandRing2
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(51) RightHandRing3
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(52) RightHandRing4
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(53) RightHandPinky1
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(54) RightHandPinky2
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(55) RightHandPinky3
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(56) RightHandPinky4
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(57) LeftUpLeg
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(58) LeftLeg
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(59) LeftFoot
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(60) LeftToeBase
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(61) LeftToe_End
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(62) RightUpLeg
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(63) RightLeg
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(64) RightFoot
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(65) RightToeBase
+[2018.04.29-18.42.02:489][273]LogFbx: SortedLinks :(66) RightToe_End
+[2018.04.29-18.42.02:490][273]LogFbx: Parsing AnimStack mixamo.com
+[2018.04.29-18.42.02:492][273]LogLinker: Can't find file '/Game/temp/Sitting_Anim'
+[2018.04.29-18.42.02:493][273]LogLinker: Can't find file '/Game/temp/Sitting_Anim'
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Blink_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Blink_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(BrowsDown_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(BrowsDown_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(BrowsIn_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(BrowsOuterLower_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(BrowsOuterLower_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(BrowsUp_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(BrowsUp_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(CheekPuff_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(CheekPuff_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(EyesWide_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(EyesWide_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Frown_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Frown_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(JawBackward) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(JawForeward) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(JawRotateY_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(JawRotateY_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(JawRotateZ_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Jaw_Down) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Jaw_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Jaw_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Jaw_Up) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(LowerLipDown_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(LowerLipDown_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(LowerLipIn) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(LowerLipOut) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Midmouth_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Midmouth_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(MouthDown) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(MouthNarrow_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(MouthNarrow_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(MouthOpen) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(MouthUp) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(MouthWhistle_NarrowAdjust_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(MouthWhistle_NarrowAdjust_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(NoseScrunch_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(NoseScrunch_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Smile_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Smile_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:493][273]LogFbx: Warning: CurveName(Squint_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Squint_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(TongueUp) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(UpperLipIn) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(UpperLipOut) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(UpperLipUp_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(UpperLipUp_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Blink_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Blink_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(BrowsDown_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(BrowsDown_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(BrowsUp_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(EyesWide_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(EyesWide_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Midmouth_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Midmouth_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(MouthDown) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(MouthUp) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Squint_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Squint_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Blink_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Blink_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(BrowsDown_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(BrowsDown_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(BrowsIn_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(BrowsOuterLower_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(BrowsOuterLower_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(BrowsUp_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(BrowsUp_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(CheekPuff_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(CheekPuff_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(EyesWide_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(EyesWide_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Frown_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Frown_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(JawBackward) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(JawForeward) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(JawRotateY_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(JawRotateY_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(JawRotateZ_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Jaw_Down) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Jaw_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Jaw_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Jaw_Up) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(LowerLipDown_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(LowerLipDown_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(LowerLipIn) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(LowerLipOut) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Midmouth_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(Midmouth_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(MouthDown) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(MouthNarrow_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(MouthNarrow_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(MouthOpen) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(MouthUp) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:494][273]LogFbx: Warning: CurveName(MouthWhistle_NarrowAdjust_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:495][273]LogFbx: Warning: CurveName(MouthWhistle_NarrowAdjust_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:495][273]LogFbx: Warning: CurveName(NoseScrunch_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:495][273]LogFbx: Warning: CurveName(NoseScrunch_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:495][273]LogFbx: Warning: CurveName(Smile_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:495][273]LogFbx: Warning: CurveName(Smile_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:495][273]LogFbx: Warning: CurveName(Squint_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:495][273]LogFbx: Warning: CurveName(Squint_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:495][273]LogFbx: Warning: CurveName(TongueUp) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:495][273]LogFbx: Warning: CurveName(UpperLipIn) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:495][273]LogFbx: Warning: CurveName(UpperLipOut) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:495][273]LogFbx: Warning: CurveName(UpperLipUp_Left) is skipped because it only contains invalid values.
+[2018.04.29-18.42.02:495][273]LogFbx: Warning: CurveName(UpperLipUp_Right) is skipped because it only contains invalid values.
+[2018.04.29-18.42.03:056][273]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/temp/Sitting_Anim.Sitting_Anim
+[2018.04.29-18.42.03:056][273]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Sitting_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.29-18.42.05:490][273]LogShaderCompilers: Display: Shaders left to compile 162
+[2018.04.29-18.42.05:801][273]LogShaderCompilers: Display: Shaders left to compile 152
+[2018.04.29-18.42.05:951][273]LogShaderCompilers: Display: Shaders left to compile 142
+[2018.04.29-18.42.09:083][273]LogShaderCompilers: Display: Shaders left to compile 132
+[2018.04.29-18.42.09:254][273]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.04.29-18.42.09:339][273]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.04.29-18.42.10:879][273]LogSlate: Window 'Message' being destroyed
+[2018.04.29-18.42.10:882][273]LoadErrors: Error: The Skeleton  female1_sitting_Skeleton is missing bones that SkeletalMesh  female1_sitting needs. They will be added now. Please save the Skeleton!
+[2018.04.29-18.42.10:947][273]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.04.29-18.42.10:947][273]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2018.04.29-18.42.10:947][273]FBXImport: Warning: Warning skeletal mesh influence count of 10 exceeds max count of 8. Influence truncation will occur. Maximum Ignored Weight 0 
+[2018.04.29-18.42.10:953][273]LogSkeletalMesh: Building Skeletal Mesh Sitting...
+[2018.04.29-18.42.10:995][273]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/temp/Sitting.Sitting
+[2018.04.29-18.42.12:699][274]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.04.29-18.42.18:153][314]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.04.29-18.42.18:153][314]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.04.29-18.42.18:153][314]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.04.29-18.42.18:153][314]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.04.29-18.42.18:254][315]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.04.29-18.42.22:960][316]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.04.29-18.42.22:960][316]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.29-18.42.22:960][316]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.29-18.42.25:745][317]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.29-18.42.25:745][317]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.29-18.42.27:229][348]LogSlate: Window 'Message Log' being destroyed
+[2018.04.29-18.42.27:249][348]LogSlate: Window 'Message Log' being destroyed
+[2018.04.29-18.42.32:820][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.04.29-18.42.33:557][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (raised_steps)
+[2018.04.29-18.42.38:896][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-18.42.58:182][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.04.29-18.42.58:669][103]Cmd: TRANSACTION UNDO
+[2018.04.29-18.42.58:669][103]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.29-18.42.59:082][124]Cmd: TRANSACTION UNDO
+[2018.04.29-18.42.59:082][124]LogEditorTransaction: Undo Move Actors
+[2018.04.29-18.42.59:825][143]Cmd: TRANSACTION UNDO
+[2018.04.29-18.42.59:825][143]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.29-18.43.00:307][159]Cmd: TRANSACTION UNDO
+[2018.04.29-18.43.00:308][159]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.29-18.43.00:765][172]Cmd: TRANSACTION UNDO
+[2018.04.29-18.43.00:765][172]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.29-18.43.01:198][185]Cmd: TRANSACTION UNDO
+[2018.04.29-18.43.01:198][185]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.29-18.43.01:687][200]Cmd: TRANSACTION UNDO
+[2018.04.29-18.43.01:687][200]LogEditorTransaction: Undo Edit Skeleton
+[2018.04.29-18.43.02:140][214]Cmd: TRANSACTION UNDO
+[2018.04.29-18.43.02:140][214]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2018.04.29-18.43.04:336][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-18.43.08:010][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-18.43.08:197][401]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.04.29-18.43.11:445][401]LogSlate: Window 'Message' being destroyed
+[2018.04.29-18.43.11:448][401]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/female1_sitting_Anim_mixamo_com.female1_sitting_Anim_mixamo_com
+[2018.04.29-18.43.11:449][401]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_0) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.29-18.43.11:456][401]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/temp/Sitting_Anim.Sitting_Anim
+[2018.04.29-18.43.11:457][401]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.AnimSequence_1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.29-18.43.11:462][401]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.29-18.43.11:465][401]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.04.29-18.43.11:514][401]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.04.29-18.43.11:880][401]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.04.29-18.43.11:898][401]LogRenderer: Reallocating scene render targets to support 1208x888 Format 10 NumSamples 1 (Frame:1).
+[2018.04.29-18.43.19:794][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-18.43.19:939][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.04.29-18.43.19:970][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.04.29-18.43.20:718][852]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.04.29-18.43.20:749][852]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.04.29-18.43.21:149][852]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.29-18.43.22:721][887]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.04.29-18.43.23:007][887]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.04.29-18.43.23:696][887]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.04.29-18.43.24:005][887]LogSlate: Took 0.019066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.29-18.43.26:865][  5]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0005 seconds. Added 7 classes and 3 folders.
+[2018.04.29-18.43.26:881][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_4.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.29-18.43.29:229][ 78]LogSlate: Window 'female1_sitting_PhysicsAsset' being destroyed
+[2018.04.29-18.43.29:233][ 78]LogSlate: Window 'female1_sitting_PhysicsAsset' being destroyed
+[2018.04.29-18.43.35:569][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-18.43.40:927][640]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2018.04.29-18.43.40:928][640]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2018.04.29-18.43.43:809][809]Cmd: TRANSACTION UNDO
+[2018.04.29-18.43.43:809][809]LogEditorTransaction: Undo Set Location
+[2018.04.29-18.43.45:108][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (raised_steps)
+[2018.04.29-18.43.45:709][866]LogEditorViewport: Clicking on Actor (LMB): AudiencePawn_C (AudiencePawn)
+[2018.04.29-18.43.45:842][868]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMesh)
+[2018.04.29-18.43.46:665][893]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMesh)
+[2018.04.29-18.43.46:704][893]LogEditorViewport: Clicking on Actor (double click): AudiencePawn_C (AudiencePawn)
+[2018.04.29-18.43.49:771][151]LogEditorViewport: Clicking on Actor (context menu): AudiencePawn_C (AudiencePawn)
+[2018.04.29-18.43.49:814][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.29-18.43.50:565][181]LogEditorViewport: Clicking on Actor (LMB): AudiencePawn_C (AudiencePawn)
+[2018.04.29-18.43.51:668][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-18.43.55:727][478]LogSlate: Window 'AudiencePawn' being destroyed
+[2018.04.29-18.43.56:451][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-18.44.02:818][907]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_5.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.04.29-18.44.02:856][907]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.Actor_5.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2018.04.29-18.44.04:998][996]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_6.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.04.29-18.44.05:024][996]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_6.DebugSkelMeshComponent_8) - call TermArticulated first.
+[2018.04.29-18.44.05:386][996]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.29-18.44.21:339][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.29-18.44.21:523][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/female1_sitting_Anim_mixamo_com" FILE="../../../../Developer/PresentVR/SeniorDesignV1 4.19/Content/female1_sitting_Anim_mixamo_com.uasset" SILENT=true
+[2018.04.29-18.44.21:551][799]LogSavePackage: Save=17.26ms
+[2018.04.29-18.44.21:551][799]LogSavePackage: Moving '../../../../Developer/PresentVR/SeniorDesignV1 4.19/Saved/female1_sitting_Anim_mixamo_com7BAADB824B3FEE33DD246B944AA406BA.tmp' to '../../../../Developer/PresentVR/SeniorDesignV1 4.19/Content/female1_sitting_Anim_mixamo_com.uasset'
+[2018.04.29-18.44.21:555][799]LogSavePackage: Display: Finished SavePackage ../../../../Developer/PresentVR/SeniorDesignV1 4.19/Content/female1_sitting_Anim_mixamo_com.uasset
+[2018.04.29-18.44.24:966][970]LogSlate: Window 'female1_sitting' being destroyed
+[2018.04.29-18.44.26:216][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.29-18.44.26:233][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Clsasroom.Clsasroom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Clsasroom.Clsasroom:PersistentLevel.Clsasroom' with GeneratedClass '/Game/levels/Clsasroom.Clsasroom_C' with ClassGeneratedBy '/Game/levels/Clsasroom.Clsasroom:PersistentLevel.Clsasroom'
+[2018.04.29-18.44.26:234][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.29-18.44.26:234][ 49]PIE: New page: PIE session: Clsasroom (Apr 29, 2018, 4:44:26 AM)
+[2018.04.29-18.44.26:234][ 49]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Clsasroom
+[2018.04.29-18.44.26:247][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013346s)
+[2018.04.29-18.44.26:248][ 49]LogAIModule: Creating AISystem for world Clsasroom
+[2018.04.29-18.44.26:248][ 49]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2018.04.29-18.44.26:248][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Clsasroom.Clsasroom to /Game/levels/UEDPIE_0_Clsasroom.Clsasroom (0.014126s)
+[2018.04.29-18.44.26:297][ 49]LogInit: XAudio2 using '42 TV (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.29-18.44.26:302][ 49]LogInit: FAudioDevice initialized.
+[2018.04.29-18.44.26:356][ 49]LogLoad: Game class is 'MyGameMode_C'
+[2018.04.29-18.44.26:366][ 49]LogWorld: Bringing World /Game/levels/UEDPIE_0_Clsasroom.Clsasroom up for play (max tick rate 0) at 2018.04.29-11.44.26
+[2018.04.29-18.44.26:367][ 49]LogWorld: Bringing up level for play took: 0.010743
+[2018.04.29-18.44.26:369][ 49]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.04.29-18.44.26:383][ 49]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Clsasroom 0.976
+[2018.04.29-18.44.26:383][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Clsasroom.Clsasroom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Clsasroom.Clsasroom:PersistentLevel.Clsasroom' with GeneratedClass '/Game/levels/Clsasroom.Clsasroom_C' with ClassGeneratedBy '/Game/levels/Clsasroom.Clsasroom:PersistentLevel.Clsasroom'
+[2018.04.29-18.44.27:533][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Clsasroom.Clsasroom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Clsasroom.Clsasroom:PersistentLevel.Clsasroom' with GeneratedClass '/Game/levels/Clsasroom.Clsasroom_C' with ClassGeneratedBy '/Game/levels/Clsasroom.Clsasroom:PersistentLevel.Clsasroom'
+[2018.04.29-18.44.27:549][116]SocketIOLog: SocketIO None disconnected from namespace: /
