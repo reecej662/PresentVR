@@ -1,0 +1,867 @@
+﻿Log file open, 05/10/18 11:10:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SeniorDesignV1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1600254088) SRandInit(1600254088).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.547317
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin SocketIOClient
+LogStreaming: Display: Took  0.220s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Binaries/Win64/UE4Editor-SeniorDesignV1.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SocketIOClient.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SIOJson.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-CoreUtility.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SIOJEditorPlugin.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am ART-D-01010 (172.21.0.216:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.10-18.10.05:617][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.10-18.10.05:617][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.10-18.10.05:637][  0]LogInit: Computer: ART-D-01010
+[2018.05.10-18.10.05:637][  0]LogInit: User: VRBC
+[2018.05.10-18.10.05:637][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.10-18.10.05:637][  0]LogInit: High frequency timer resolution =3.604936 MHz
+[2018.05.10-18.10.05:638][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.10-18.10.05:638][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.10-18.10.05:638][  0]LogMemory: Process Physical Memory: 282.53 MB used, 282.53 MB peak
+[2018.05.10-18.10.05:638][  0]LogMemory: Process Virtual Memory: 278.79 MB used, 278.79 MB peak
+[2018.05.10-18.10.05:638][  0]LogMemory: Physical Memory: 5205.99 MB used,  11100.14 MB free, 16306.14 MB total
+[2018.05.10-18.10.05:638][  0]LogMemory: Virtual Memory: 725.13 MB used,  11100.14 MB free, 134217728.00 MB total
+[2018.05.10-18.10.05:788][  0]LogInit: Using OS detected language (en-US).
+[2018.05.10-18.10.05:788][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.10-18.10.05:801][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.10-18.10.06:266][  0]LogStreaming: Display: Took  0.478s to EndInitTextLocalization.
+[2018.05.10-18.10.06:267][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.10-18.10.06:377][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.10-18.10.06:377][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.10-18.10.06:798][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.10-18.10.06:851][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P4000' (Feature Level 11_0)
+[2018.05.10-18.10.06:851][  0]LogD3D11RHI:       8121/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.10-18.10.06:853][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.10-18.10.06:853][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.10-18.10.06:853][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.10-18.10.06:868][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.10-18.10.06:868][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb1 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.10-18.10.06:868][  0]LogWindows: EnumDisplayDevices:
+[2018.05.10-18.10.06:868][  0]LogWindows:    0. 'NVIDIA Quadro P4000' (P:1 D:1)
+[2018.05.10-18.10.06:869][  0]LogWindows:    1. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.05.10-18.10.06:869][  0]LogWindows:    2. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.05.10-18.10.06:869][  0]LogWindows:    3. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.05.10-18.10.06:869][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.05.10-18.10.06:869][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P4000
+[2018.05.10-18.10.06:870][  0]LogD3D11RHI:   Driver Version: 381.65 (internal:22.21.13.8165, unified:381.65)
+[2018.05.10-18.10.06:870][  0]LogD3D11RHI:      Driver Date: 3-31-2017
+[2018.05.10-18.10.06:870][  0]LogRHI: Texture pool is 5685 MB (70% of 8121 MB)
+[2018.05.10-18.10.06:906][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.05.10-18.10.06:906][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.10-18.10.06:948][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.10-18.10.07:000][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Intermediate/Shaders/WorkingDirectory/3376/).
+[2018.05.10-18.10.07:001][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/VRBC/AppData/Local/Temp/UnrealShaderWorkingDir/4136CE0648D5D9842793189C5C69711B/'.
+[2018.05.10-18.10.07:492][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.10-18.10.07:510][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.10-18.10.07:526][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.10-18.10.07:541][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.10-18.10.07:558][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.10-18.10.07:573][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.10-18.10.07:589][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.10-18.10.07:605][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.10-18.10.07:616][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.10-18.10.07:631][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.10-18.10.07:646][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.10-18.10.07:660][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.10-18.10.07:675][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.10-18.10.07:690][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.10-18.10.07:705][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.10-18.10.07:735][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.10-18.10.07:735][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.10-18.10.07:751][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.10-18.10.07:754][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.10-18.10.07:803][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.10-18.10.07:817][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.10-18.10.07:832][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.10-18.10.07:846][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.10-18.10.07:860][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.10-18.10.07:876][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.10-18.10.07:878][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.10-18.10.08:136][  0]LogXGEController: Cleaning working directory: C:/Users/VRBC/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.10-18.10.08:137][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.10-18.10.08:138][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.10-18.10.08:138][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.10-18.10.09:185][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.10-18.10.09:489][  0]LogDerivedDataCache: Loaded boot cache 0.30s 74MB C:/Users/VRBC/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.10-18.10.09:489][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/VRBC/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.10-18.10.09:489][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.10-18.10.09:489][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.10-18.10.09:489][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.10-18.10.09:489][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.10-18.10.09:512][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.10-18.10.09:525][  0]LogDerivedDataCache: Using Local data cache path C:/Users/VRBC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.10-18.10.09:543][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.10-18.10.09:550][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.10-18.10.09:555][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.10-18.10.09:555][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.10-18.10.10:124][  0]LogAssetRegistry: FAssetRegistry took 0.0307 seconds to start up
+[2018.05.10-18.10.10:825][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.10-18.10.11:126][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.10-18.10.11:135][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.10-18.10.11:136][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.10-18.10.11:136][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.10-18.10.11:136][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.10-18.10.11:136][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.10-18.10.11:212][  0]LogNetVersion: SeniorDesignV1 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 838868365)
+[2018.05.10-18.10.12:195][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.131717 seconds
+[2018.05.10-18.10.12:201][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.10-18.10.12:201][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.10-18.10.12:201][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.10-18.10.15:723][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.10-18.10.15:763][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.10-18.10.16:435][  0]SourceControl: Source control is disabled
+[2018.05.10-18.10.16:435][  0]SourceControl: Source control is disabled
+[2018.05.10-18.10.16:475][  0]SourceControl: Source control is disabled
+[2018.05.10-18.10.16:506][  0]SourceControl: Source control is disabled
+[2018.05.10-18.10.17:295][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.10-18.10.17:592][  0]LogOcInput: OculusInput pre-init called
+[2018.05.10-18.10.17:863][  0]LogEngine: Initializing Engine...
+[2018.05.10-18.10.17:872][  0]LogHMD: Oculus plugin initialized. Version: 4.19.0-3944462+++UE4+Release-4.19, OVRPlugin: 1.21.0
+[2018.05.10-18.10.17:876][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.10-18.10.17:878][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.10-18.10.18:286][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.10-18.10.18:340][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.10-18.10.18:538][  0]LogInit: FAudioDevice initialized.
+[2018.05.10-18.10.18:661][  0]LogDerivedDataCache: Saved boot cache 0.12s 74MB C:/Users/VRBC/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.10-18.10.18:675][  0]LogInit: Texture streaming: Enabled
+[2018.05.10-18.10.18:710][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.10-18.10.18:748][  0]LogInit: Transaction tracking system initialized
+[2018.05.10-18.10.18:842][  0]BlueprintLog: New page: Editor Load
+[2018.05.10-18.10.19:109][  0]LocalizationService: Localization service is disabled
+[2018.05.10-18.10.19:440][  0]LogConsoleResponse: Display: 
+[2018.05.10-18.10.19:680][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.10-18.10.19:680][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.10-18.10.19:680][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.10-18.10.19:680][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.10-18.10.19:680][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.10-18.10.20:417][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/' took 0.02s
+[2018.05.10-18.10.20:417][  0]SourceControl: Source control is disabled
+[2018.05.10-18.10.20:419][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.10-18.10.20:423][  0]LightingResults: New page: Lighting Build
+[2018.05.10-18.10.20:440][  0]MapCheck: New page: Map Check
+[2018.05.10-18.10.20:440][  0]LightingResults: New page: Lighting Build
+[2018.05.10-18.10.20:799][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.10-18.10.20:836][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.10-18.10.20:852][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.10-18.10.20:959][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 106.88ms to complete.
+[2018.05.10-18.10.20:961][  0]LogFileHelpers: Loading map 'Template_Default' took 0.542
+[2018.05.10-18.10.21:234][  0]LogCollectionManager: Loaded 0 collections in 0.002527 seconds
+[2018.05.10-18.10.21:315][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Saved/Collections/' took 0.01s
+[2018.05.10-18.10.21:315][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Developers/VRBC/Collections/' took 0.01s
+[2018.05.10-18.10.21:315][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Collections/' took 0.01s
+[2018.05.10-18.10.21:316][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.10-18.10.21:331][  0]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2462 classes and 567 folders.
+[2018.05.10-18.10.21:350][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.05.10-18.10.21:510][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.05.10-18.10.21:530][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.05.10-18.10.21:772][  0]LogSlate: Took 0.001969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.10-18.10.21:779][  0]LogSlate: Took 0.001808 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.10-18.10.21:794][  0]LogSlate: Took 0.001419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.10-18.10.21:938][  0]LogRenderer: Reallocating scene render targets to support 1080x440 Format 10 NumSamples 1 (Frame:1).
+[2018.05.10-18.10.22:275][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.05.10-18.10.22:275][  0]LogLoad: (Engine Initialization) Total time: 22.86 seconds
+[2018.05.10-18.10.22:275][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.10-18.10.22:287][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.10-18.10.22:288][  0]LogOcInput: OculusInput is initialized
+[2018.05.10-18.10.22:325][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.10-18.10.22:434][  2]LogAssetRegistry: Asset discovery search completed in 12.3330 seconds
+[2018.05.10-18.10.22:437][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.10-18.10.22:437][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000589 seconds (updated 0 objects)
+[2018.05.10-18.10.26:388][462]LogSlate: Took 0.002148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.10-18.10.31:482][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.10-18.10.34:977][432]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.10-18.10.35:243][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Interested to Lean Forward  will never be taken, please connect something to  Can Enter Transition
+[2018.05.10-18.10.35:270][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:270][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:270][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:271][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:272][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:272][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:272][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:272][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:273][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP] [0035.86] Compile of Male1_AnimationBP successful, but with 21 Warning(s) [in 64 ms] (/Game/people/testmale/animation/Male1_AnimationBP.Male1_AnimationBP)
+[2018.05.10-18.10.35:521][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.10-18.10.35:521][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.10-18.10.35:521][432]LoadErrors: Error: /Game/Assets/ConferenceRoom/Materials/M_Rock_Sandstone : Can't find file for asset. /Game/StarterContent/Textures/T_MacroVariation
+[2018.05.10-18.10.35:522][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.10-18.10.35:522][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.10-18.10.35:522][432]LoadErrors: Error: /Game/Assets/ConferenceRoom/Materials/M_Rock_Sandstone : Can't find file for asset. /Game/StarterContent/Textures/T_Perlin_Noise_M
+[2018.05.10-18.10.35:522][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.10-18.10.35:522][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.10-18.10.35:522][432]LoadErrors: Error: /Game/Assets/ConferenceRoom/Materials/M_Rock_Sandstone : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Sandstone_D
+[2018.05.10-18.10.35:522][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.10-18.10.35:522][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.10-18.10.35:522][432]LoadErrors: Error: /Game/Assets/ConferenceRoom/Materials/M_Rock_Sandstone : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Sandstone_N
+[2018.05.10-18.10.35:523][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.10-18.10.35:523][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.10-18.10.35:523][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.10-18.10.35:523][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.10-18.10.35:523][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.10-18.10.35:523][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.10-18.10.35:524][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.10-18.10.35:524][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.10-18.10.35:648][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Interested to Lean Forward  will never be taken, please connect something to  Can Enter Transition
+[2018.05.10-18.10.35:664][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:664][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:664][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:664][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:665][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:665][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:665][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:665][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:665][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:665][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:665][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:665][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:665][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:665][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:665][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:665][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:666][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:666][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:666][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:666][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:666][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] [0036.25] Compile of Male1_AnimationBP23 successful, but with 21 Warning(s) [in 33 ms] (/Game/Male1_AnimationBP23.Male1_AnimationBP23)
+[2018.05.10-18.10.35:801][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Interested to Lean Forward  will never be taken, please connect something to  Can Enter Transition
+[2018.05.10-18.10.35:817][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:817][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:817][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:817][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:817][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:818][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:819][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:819][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:819][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP24] [0036.40] Compile of Male1_AnimationBP24 successful, but with 21 Warning(s) [in 34 ms] (/Game/Male1_AnimationBP24.Male1_AnimationBP24)
+[2018.05.10-18.10.35:954][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Interested to Lean Forward  will never be taken, please connect something to  Can Enter Transition
+[2018.05.10-18.10.35:971][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:971][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:971][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:971][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:971][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:971][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:971][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:971][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:971][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:971][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:971][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:972][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:972][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:972][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:972][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:972][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:972][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:972][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:972][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:972][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.35:972][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP25] [0036.55] Compile of Male1_AnimationBP25 successful, but with 21 Warning(s) [in 34 ms] (/Game/Male1_AnimationBP25.Male1_AnimationBP25)
+[2018.05.10-18.10.36:102][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Interested to Lean Forward  will never be taken, please connect something to  Can Enter Transition
+[2018.05.10-18.10.36:120][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:120][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:120][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:120][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:120][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:120][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:120][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:120][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:120][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:120][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:120][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:120][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:121][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:121][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:121][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:121][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:121][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:121][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:121][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:121][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:121][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] [0036.70] Compile of Male1_AnimationBP26 successful, but with 21 Warning(s) [in 40 ms] (/Game/Male1_AnimationBP26.Male1_AnimationBP26)
+[2018.05.10-18.10.36:257][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Interested to Lean Forward  will never be taken, please connect something to  Can Enter Transition
+[2018.05.10-18.10.36:274][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:274][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:274][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:275][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:275][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:275][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:275][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:275][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:275][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:275][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:275][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:275][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:275][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:275][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:275][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:276][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:276][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:276][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:276][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:276][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:276][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP27] [0036.86] Compile of Male1_AnimationBP27 successful, but with 21 Warning(s) [in 35 ms] (/Game/Male1_AnimationBP27.Male1_AnimationBP27)
+[2018.05.10-18.10.36:410][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Interested to Lean Forward  will never be taken, please connect something to  Can Enter Transition
+[2018.05.10-18.10.36:427][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:427][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:427][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:427][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:427][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:427][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:427][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:427][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:427][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:427][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:427][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:427][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:428][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:428][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:428][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:428][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:428][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:428][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:428][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:428][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.10.36:428][432]LogBlueprint: Warning: [Compiler Male1_AnimationBP28] [0037.01] Compile of Male1_AnimationBP28 successful, but with 21 Warning(s) [in 34 ms] (/Game/Male1_AnimationBP28.Male1_AnimationBP28)
+[2018.05.10-18.10.36:659][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.10-18.10.36:659][432]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Sandstone_D.T_Rock_Sandstone_D Referenced by MaterialExpressionTextureSample_1
+[2018.05.10-18.10.36:659][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading NULL.
+[2018.05.10-18.10.36:660][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.10-18.10.36:660][432]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Sandstone_D.T_Rock_Sandstone_D Referenced by MaterialExpressionTextureSample_2
+[2018.05.10-18.10.36:660][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading NULL.
+[2018.05.10-18.10.36:660][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.10-18.10.36:660][432]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Sandstone_N.T_Rock_Sandstone_N Referenced by MaterialExpressionTextureSample_4
+[2018.05.10-18.10.36:660][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading NULL.
+[2018.05.10-18.10.36:661][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.10-18.10.36:661][432]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Sandstone_N.T_Rock_Sandstone_N Referenced by MaterialExpressionTextureSample_5
+[2018.05.10-18.10.36:661][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading NULL.
+[2018.05.10-18.10.36:661][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.10-18.10.36:661][432]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_62
+[2018.05.10-18.10.36:661][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading NULL.
+[2018.05.10-18.10.36:661][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.10-18.10.36:661][432]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_63
+[2018.05.10-18.10.36:662][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2018.05.10-18.10.36:662][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.10-18.10.36:662][432]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_64
+[2018.05.10-18.10.36:662][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2018.05.10-18.10.36:662][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.10-18.10.36:662][432]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_65
+[2018.05.10-18.10.36:663][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2018.05.10-18.10.36:843][432]LogSkeletalMesh: Skeletal Mesh found in DDC [13.712587ms] /Game/people/suits/Suit6/suit6.suit6
+[2018.05.10-18.10.36:862][432]LogSkeletalMesh: Skeletal Mesh found in DDC [17.801147ms] /Game/people/suits/Suit3/suit3.suit3
+[2018.05.10-18.10.37:116][432]LogSkeletalMesh: Skeletal Mesh found in DDC [16.671032ms] /Game/people/testmale/mesh/male1.male1
+[2018.05.10-18.10.37:290][432]LogSkeletalMesh: Skeletal Mesh found in DDC [13.665708ms] /Game/people/suits/Suit1/suit1.suit1
+[2018.05.10-18.10.37:301][432]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2018.05.10-18.10.37:307][432]LogMaterial: Warning: C:\Users\VRBC\Desktop\rjackson\PresentVR\SeniorDesignV1 4.19\Content\Assets\ConferenceRoom\Materials\M_Rock_Sandstone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.10-18.10.37:307][432]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.10-18.10.37:351][432]LogSkeletalMesh: Skeletal Mesh found in DDC [13.049053ms] /Game/people/suits/Suit5/suit5.suit5
+[2018.05.10-18.10.37:366][432]LogSkeletalMesh: Skeletal Mesh found in DDC [14.846033ms] /Game/people/suits/Suit2/suit2.suit2
+[2018.05.10-18.10.37:510][432]LogSkeletalMesh: Skeletal Mesh found in DDC [13.446009ms] /Game/people/suits/Suit4/suit4.suit4
+[2018.05.10-18.10.37:566][432]LogAIModule: Creating AISystem for world conferenceRoom
+[2018.05.10-18.10.37:639][432]Cmd: MAP LOAD FILE="../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/levels/conferenceRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.10-18.10.37:639][432]LightingResults: New page: Lighting Build
+[2018.05.10-18.10.37:640][432]LoadErrors: New page: Loading map: conferenceRoom.umap
+[2018.05.10-18.10.37:644][432]MapCheck: New page: Map Check
+[2018.05.10-18.10.37:644][432]LightingResults: New page: Lighting Build
+[2018.05.10-18.10.37:815][432]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.10-18.10.37:854][432]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.10-18.10.37:976][432]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 122.11ms to complete.
+[2018.05.10-18.10.37:977][432]LogFileHelpers: Loading map 'conferenceRoom' took 0.341
+[2018.05.10-18.10.43:252][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.10-18.10.43:376][ 31]LogTemp: Repeating last play command: VR Preview
+[2018.05.10-18.10.43:395][ 31]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.10.43:397][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.10-18.10.43:398][ 31]LogHMD: Initializing OVRPlugin session
+[2018.05.10-18.10.43:484][ 31]PIE: New page: PIE session: conferenceRoom (May 10, 2018, 4:10:43 AM)
+[2018.05.10-18.10.43:485][ 31]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_conferenceRoom
+[2018.05.10-18.10.43:496][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010455s)
+[2018.05.10-18.10.43:496][ 31]LogAIModule: Creating AISystem for world conferenceRoom
+[2018.05.10-18.10.43:497][ 31]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2018.05.10-18.10.43:497][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/conferenceRoom.conferenceRoom to /Game/levels/UEDPIE_0_conferenceRoom.conferenceRoom (0.011506s)
+[2018.05.10-18.10.43:534][ 31]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.10-18.10.43:548][ 31]LogInit: FAudioDevice initialized.
+[2018.05.10-18.10.43:651][ 31]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.05.10-18.10.43:709][ 31]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.10-18.10.43:720][ 31]LogWorld: Bringing World /Game/levels/UEDPIE_0_conferenceRoom.conferenceRoom up for play (max tick rate 0) at 2018.05.10-11.10.43
+[2018.05.10-18.10.43:737][ 31]LogWorld: Bringing up level for play took: 0.021817
+[2018.05.10-18.10.43:755][ 31]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 11 classes and 0 folders.
+[2018.05.10-18.10.43:766][ 31]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.10.43:766][ 31]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.10.43:785][ 31]PIE: Play in editor start time for /Game/levels/UEDPIE_0_conferenceRoom 0.671
+[2018.05.10-18.10.43:785][ 31]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.10.43:786][ 31]LogEngine: Changing dynamic resolution state.
+[2018.05.10-18.10.43:802][ 31]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.05.10-18.10.43:805][ 31]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.05.10-18.10.43:805][ 31]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.05.10-18.10.43:805][ 31]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.05.10-18.10.43:806][ 31]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.05.10-18.10.43:806][ 31]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.05.10-18.10.43:817][ 31]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 10 NumSamples 1 (Frame:1).
+[2018.05.10-18.10.43:817][ 31]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.05.10-18.10.44:986][131]SocketIOLog: SocketIO Invalid appears to have lost connection, reconnecting attempt 0 with delay 5000
+[2018.05.10-18.10.45:818][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.10.45:937][205]LogSlate: Window 'SeniorDesignV1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.10-18.10.45:952][205]SocketIOLog: SocketIO None disconnected from namespace: /
+[2018.05.10-18.10.45:983][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.10.46:003][205]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.10-18.10.46:003][205]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.10.46:022][206]LogEngine: Changing dynamic resolution state.
+[2018.05.10-18.10.50:626][736]LogEditorViewport: Clicking on Actor (LMB): AudiencePawn_C (AudiencePawn)
+[2018.05.10-18.10.53:329][ 15]LogSlate: Took 0.001616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.10-18.10.55:258][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.10-18.10.56:841][379]LogSkeletalMesh: Skeletal Mesh found in DDC [6.271678ms] /Game/female1_sitting.female1_sitting
+[2018.05.10-18.11.18:874][538]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.05.10-18.11.19:237][538]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.05.10-18.11.19:251][538]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2018.05.10-18.11.19:537][538]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.05.10-18.11.20:695][538]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2018.05.10-18.11.26:788][927]LogSlate: Window 'suit1' being destroyed
+[2018.05.10-18.11.26:791][927]LogSlate: Window 'suit1' being destroyed
+[2018.05.10-18.11.41:807][232]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.05.10-18.11.42:115][232]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.05.10-18.11.42:825][232]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.05.10-18.11.43:146][232]LogSlate: Took 0.001708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.10-18.11.43:380][232]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.10-18.11.51:447][653]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.05.10-18.11.51:479][653]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.Actor_2.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.05.10-18.11.51:858][653]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.10-18.11.53:441][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sitting_Talking22" FILE="../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Sitting_Talking22.uasset" SILENT=true
+[2018.05.10-18.11.53:549][725]LogSavePackage: Save=49.66ms
+[2018.05.10-18.11.53:549][725]LogSavePackage: Moving '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Saved/Sitting_Talking22019F25DA4F2AD60D72C76C970E509D5E.tmp' to '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Sitting_Talking22.uasset'
+[2018.05.10-18.11.53:553][725]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Sitting_Talking22.uasset
+[2018.05.10-18.11.58:329][  3]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2018.05.10-18.11.58:329][  3]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2018.05.10-18.12.04:861][408]LogSlate: Window 'Male1_AnimationBP23' being destroyed
+[2018.05.10-18.12.11:376][ 25]LogTemp: Repeating last play command: VR Preview
+[2018.05.10-18.12.11:392][ 25]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.12.11:393][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.10-18.12.11:393][ 25]LogHMD: Initializing OVRPlugin session
+[2018.05.10-18.12.11:451][ 25]PIE: New page: PIE session: conferenceRoom (May 10, 2018, 4:12:11 AM)
+[2018.05.10-18.12.11:451][ 25]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_conferenceRoom
+[2018.05.10-18.12.11:458][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007193s)
+[2018.05.10-18.12.11:459][ 25]LogAIModule: Creating AISystem for world conferenceRoom
+[2018.05.10-18.12.11:459][ 25]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2018.05.10-18.12.11:459][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/conferenceRoom.conferenceRoom to /Game/levels/UEDPIE_0_conferenceRoom.conferenceRoom (0.008002s)
+[2018.05.10-18.12.11:522][ 25]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.10-18.12.11:535][ 25]LogInit: FAudioDevice initialized.
+[2018.05.10-18.12.11:643][ 25]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.05.10-18.12.11:672][ 25]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.10-18.12.11:677][ 25]LogWorld: Bringing World /Game/levels/UEDPIE_0_conferenceRoom.conferenceRoom up for play (max tick rate 0) at 2018.05.10-11.12.11
+[2018.05.10-18.12.11:677][ 25]LogWorld: Bringing up level for play took: 0.004490
+[2018.05.10-18.12.11:679][ 25]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.12.11:679][ 25]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.12.11:697][ 25]PIE: Play in editor start time for /Game/levels/UEDPIE_0_conferenceRoom 0.583
+[2018.05.10-18.12.11:697][ 25]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.12.11:698][ 25]LogEngine: Changing dynamic resolution state.
+[2018.05.10-18.12.11:702][ 25]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.05.10-18.12.11:702][ 25]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.05.10-18.12.12:888][146]SocketIOLog: SocketIO Invalid appears to have lost connection, reconnecting attempt 0 with delay 5000
+[2018.05.10-18.12.14:877][318]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.12.14:993][318]LogSlate: Window 'SeniorDesignV1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.10-18.12.15:008][318]SocketIOLog: SocketIO None disconnected from namespace: /
+[2018.05.10-18.12.15:042][318]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.12.15:068][318]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.10-18.12.15:068][318]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.12.15:089][319]LogEngine: Changing dynamic resolution state.
+[2018.05.10-18.12.18:310][636]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.05.10-18.12.18:583][636]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.Actor_3.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.05.10-18.12.18:990][636]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.10-18.12.26:672][ 21]BlueprintLog: New page: Compile Male1_AnimationBP23
+[2018.05.10-18.12.26:745][ 21]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Interested to Lean Forward  will never be taken, please connect something to  Can Enter Transition
+[2018.05.10-18.12.26:759][ 21]LogBlueprint: Error: [Compiler Male1_AnimationBP23] This blueprint (self) is not a ActorComponent, therefore ' Target ' must have a connection.
+[2018.05.10-18.12.26:917][ 21]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] [0147.50] Compile of Male1_AnimationBP23 failed. 1 Fatal Issue(s) 1 Warning(s) [in 244 ms] (/Game/Male1_AnimationBP23.Male1_AnimationBP23)
+[2018.05.10-18.12.27:517][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Male1_AnimationBP23" FILE="../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Male1_AnimationBP23.uasset" SILENT=true
+[2018.05.10-18.12.27:742][ 42]LogSavePackage: Save=176.12ms
+[2018.05.10-18.12.27:742][ 42]LogSavePackage: Moving '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Saved/Male1_AnimationBP238CA530EE4C9F2FC5EC01BD86CF50B240.tmp' to '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Male1_AnimationBP23.uasset'
+[2018.05.10-18.12.27:749][ 42]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Male1_AnimationBP23.uasset
+[2018.05.10-18.12.41:146][708]BlueprintLog: New page: Compile Male1_AnimationBP23
+[2018.05.10-18.12.41:223][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Interested to Lean Forward  will never be taken, please connect something to  Can Enter Transition
+[2018.05.10-18.12.41:240][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:240][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:240][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:240][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:240][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:241][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:241][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:241][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:241][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:241][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:241][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:241][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:241][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:241][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:241][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:241][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:241][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:242][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:242][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:242][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.12.41:385][708]LogBlueprint: Warning: [Compiler Male1_AnimationBP23] [0161.97] Compile of Male1_AnimationBP23 successful, but with 21 Warning(s) [in 238 ms] (/Game/Male1_AnimationBP23.Male1_AnimationBP23)
+[2018.05.10-18.12.42:227][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Male1_AnimationBP23" FILE="../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Male1_AnimationBP23.uasset" SILENT=true
+[2018.05.10-18.12.42:478][742]LogSavePackage: Save=201.72ms
+[2018.05.10-18.12.42:478][742]LogSavePackage: Moving '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Saved/Male1_AnimationBP236572951047CA009FD31EA49ED9B57AF3.tmp' to '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Male1_AnimationBP23.uasset'
+[2018.05.10-18.12.42:484][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Male1_AnimationBP23.uasset
+[2018.05.10-18.12.43:788][803]LogSlate: Window 'Male1_AnimationBP23' being destroyed
+[2018.05.10-18.12.51:276][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.10-18.12.51:556][523]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.05.10-18.12.51:833][523]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2018.05.10-18.12.52:282][523]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.05.10-18.13.02:312][996]BlueprintLog: New page: Compile Male1_AnimationBP26
+[2018.05.10-18.13.02:389][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Interested to Lean Forward  will never be taken, please connect something to  Can Enter Transition
+[2018.05.10-18.13.02:406][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:407][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:407][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:407][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:407][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:407][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:407][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:407][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:407][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:407][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:407][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:407][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:407][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:408][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:408][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:408][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:408][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:408][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:408][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:408][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.10-18.13.02:557][996]LogBlueprint: Warning: [Compiler Male1_AnimationBP26] [0183.14] Compile of Male1_AnimationBP26 successful, but with 21 Warning(s) [in 245 ms] (/Game/Male1_AnimationBP26.Male1_AnimationBP26)
+[2018.05.10-18.13.03:010][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Male1_AnimationBP26" FILE="../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Male1_AnimationBP26.uasset" SILENT=true
+[2018.05.10-18.13.03:234][  7]LogSavePackage: Save=173.80ms
+[2018.05.10-18.13.03:234][  7]LogSavePackage: Moving '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Saved/Male1_AnimationBP26E08AD9D14EF53A94FC9173B0D39BE129.tmp' to '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Male1_AnimationBP26.uasset'
+[2018.05.10-18.13.03:240][  7]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Male1_AnimationBP26.uasset
+[2018.05.10-18.13.04:154][ 50]LogSlate: Window 'Male1_AnimationBP26' being destroyed
+[2018.05.10-18.13.05:408][152]LogTemp: Repeating last play command: VR Preview
+[2018.05.10-18.13.05:443][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.13.05:443][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.10-18.13.05:443][152]LogHMD: Initializing OVRPlugin session
+[2018.05.10-18.13.05:505][152]PIE: New page: PIE session: conferenceRoom (May 10, 2018, 4:13:05 AM)
+[2018.05.10-18.13.05:506][152]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_conferenceRoom
+[2018.05.10-18.13.05:514][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008629s)
+[2018.05.10-18.13.05:515][152]LogAIModule: Creating AISystem for world conferenceRoom
+[2018.05.10-18.13.05:515][152]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.05.10-18.13.05:515][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/conferenceRoom.conferenceRoom to /Game/levels/UEDPIE_0_conferenceRoom.conferenceRoom (0.009418s)
+[2018.05.10-18.13.05:563][152]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.10-18.13.05:578][152]LogInit: FAudioDevice initialized.
+[2018.05.10-18.13.05:683][152]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.05.10-18.13.05:713][152]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.10-18.13.05:719][152]LogWorld: Bringing World /Game/levels/UEDPIE_0_conferenceRoom.conferenceRoom up for play (max tick rate 0) at 2018.05.10-11.13.05
+[2018.05.10-18.13.05:720][152]LogWorld: Bringing up level for play took: 0.005967
+[2018.05.10-18.13.05:723][152]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.13.05:723][152]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.13.05:745][152]PIE: Play in editor start time for /Game/levels/UEDPIE_0_conferenceRoom 0.632
+[2018.05.10-18.13.05:746][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.13.05:747][152]LogEngine: Changing dynamic resolution state.
+[2018.05.10-18.13.05:751][152]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.05.10-18.13.05:751][152]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.05.10-18.13.06:934][251]SocketIOLog: SocketIO Invalid appears to have lost connection, reconnecting attempt 0 with delay 5000
+[2018.05.10-18.13.09:020][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.13.09:135][436]LogSlate: Window 'SeniorDesignV1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.10-18.13.09:150][436]SocketIOLog: SocketIO None disconnected from namespace: /
+[2018.05.10-18.13.09:183][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.13.09:210][436]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.10-18.13.09:210][436]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.13.09:230][437]LogEngine: Changing dynamic resolution state.
+[2018.05.10-18.13.15:444][ 70]LogEditorViewport: Clicking on Actor (LMB): AudiencePawn_C (AudiencePawn3)
+[2018.05.10-18.13.21:289][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.10-18.13.25:074][886]LogTemp: Repeating last play command: VR Preview
+[2018.05.10-18.13.25:093][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.13.25:093][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.10-18.13.25:093][886]LogHMD: Initializing OVRPlugin session
+[2018.05.10-18.13.25:151][886]PIE: New page: PIE session: conferenceRoom (May 10, 2018, 4:13:25 AM)
+[2018.05.10-18.13.25:151][886]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_conferenceRoom
+[2018.05.10-18.13.25:159][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007254s)
+[2018.05.10-18.13.25:159][886]LogAIModule: Creating AISystem for world conferenceRoom
+[2018.05.10-18.13.25:159][886]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2018.05.10-18.13.25:159][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/conferenceRoom.conferenceRoom to /Game/levels/UEDPIE_0_conferenceRoom.conferenceRoom (0.008036s)
+[2018.05.10-18.13.25:204][886]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.10-18.13.25:217][886]LogInit: FAudioDevice initialized.
+[2018.05.10-18.13.25:323][886]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.05.10-18.13.25:354][886]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.10-18.13.25:361][886]LogWorld: Bringing World /Game/levels/UEDPIE_0_conferenceRoom.conferenceRoom up for play (max tick rate 0) at 2018.05.10-11.13.25
+[2018.05.10-18.13.25:362][886]LogWorld: Bringing up level for play took: 0.007739
+[2018.05.10-18.13.25:364][886]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.13.25:364][886]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.13.25:384][886]PIE: Play in editor start time for /Game/levels/UEDPIE_0_conferenceRoom 0.27
+[2018.05.10-18.13.25:384][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.13.25:384][886]LogEngine: Changing dynamic resolution state.
+[2018.05.10-18.13.25:389][886]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.05.10-18.13.25:389][886]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.05.10-18.13.26:568][982]SocketIOLog: SocketIO Invalid appears to have lost connection, reconnecting attempt 0 with delay 5000
+[2018.05.10-18.13.27:556][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.13.27:681][ 70]LogSlate: Window 'SeniorDesignV1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.10-18.13.27:696][ 70]SocketIOLog: SocketIO None disconnected from namespace: /
+[2018.05.10-18.13.27:722][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.13.27:749][ 70]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.10-18.13.27:749][ 70]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.13.27:770][ 71]LogEngine: Changing dynamic resolution state.
+[2018.05.10-18.13.29:557][252]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.13.29:557][252]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.10-18.13.29:557][252]LogHMD: Initializing OVRPlugin session
+[2018.05.10-18.13.29:613][252]PIE: New page: PIE session: conferenceRoom (May 10, 2018, 4:13:29 AM)
+[2018.05.10-18.13.29:613][252]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_conferenceRoom
+[2018.05.10-18.13.29:619][252]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006374s)
+[2018.05.10-18.13.29:620][252]LogAIModule: Creating AISystem for world conferenceRoom
+[2018.05.10-18.13.29:620][252]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2018.05.10-18.13.29:620][252]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/conferenceRoom.conferenceRoom to /Game/levels/UEDPIE_0_conferenceRoom.conferenceRoom (0.007378s)
+[2018.05.10-18.13.29:672][252]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.10-18.13.29:685][252]LogInit: FAudioDevice initialized.
+[2018.05.10-18.13.29:795][252]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.05.10-18.13.29:824][252]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.10-18.13.29:829][252]LogWorld: Bringing World /Game/levels/UEDPIE_0_conferenceRoom.conferenceRoom up for play (max tick rate 0) at 2018.05.10-11.13.29
+[2018.05.10-18.13.29:830][252]LogWorld: Bringing up level for play took: 0.004462
+[2018.05.10-18.13.29:831][252]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.13.29:831][252]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.10-18.13.29:850][252]PIE: Play in editor start time for /Game/levels/UEDPIE_0_conferenceRoom 0.737
+[2018.05.10-18.13.29:851][252]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.13.29:852][252]LogEngine: Changing dynamic resolution state.
+[2018.05.10-18.13.29:857][252]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.05.10-18.13.29:857][252]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.05.10-18.13.30:310][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel' has LevelScriptBlueprint '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom' with GeneratedClass '/Game/levels/conferenceRoom.conferenceRoom_C' with ClassGeneratedBy '/Game/levels/conferenceRoom.conferenceRoom:PersistentLevel.conferenceRoom'
+[2018.05.10-18.13.30:425][284]LogSlate: Window 'SeniorDesignV1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.10-18.13.30:439][284]SocketIOLog: SocketIO None disconnected from namespace: /
