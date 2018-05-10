@@ -1,0 +1,1051 @@
+﻿Log file open, 05/09/18 16:00:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SeniorDesignV1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2116466853) SRandInit(-2116466853).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283976
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin SocketIOClient
+LogStreaming: Display: Took  0.187s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Binaries/Win64/UE4Editor-SeniorDesignV1.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SocketIOClient.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SIOJson.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-CoreUtility.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Plugins/socketio-client-ue4/Binaries/Win64/UE4Editor-SIOJEditorPlugin.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am ART-D-01010 (172.21.0.216:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.09-23.01.03:267][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.09-23.01.03:267][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.09-23.01.03:298][  0]LogInit: Computer: ART-D-01010
+[2018.05.09-23.01.03:298][  0]LogInit: User: VRBC
+[2018.05.09-23.01.03:298][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.09-23.01.03:298][  0]LogInit: High frequency timer resolution =3.604936 MHz
+[2018.05.09-23.01.03:298][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.09-23.01.03:298][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.09-23.01.03:298][  0]LogMemory: Process Physical Memory: 281.43 MB used, 281.43 MB peak
+[2018.05.09-23.01.03:298][  0]LogMemory: Process Virtual Memory: 270.83 MB used, 270.83 MB peak
+[2018.05.09-23.01.03:298][  0]LogMemory: Physical Memory: 5814.07 MB used,  10492.07 MB free, 16306.14 MB total
+[2018.05.09-23.01.03:298][  0]LogMemory: Virtual Memory: 717.13 MB used,  10492.07 MB free, 134217728.00 MB total
+[2018.05.09-23.01.03:328][  0]LogInit: Using OS detected language (en-US).
+[2018.05.09-23.01.03:328][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.09-23.01.03:340][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.09-23.01.03:823][  0]LogStreaming: Display: Took  0.495s to EndInitTextLocalization.
+[2018.05.09-23.01.03:823][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.09-23.01.03:867][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.09-23.01.03:868][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.09-23.01.04:328][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.09-23.01.04:379][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P4000' (Feature Level 11_0)
+[2018.05.09-23.01.04:379][  0]LogD3D11RHI:       8121/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.09-23.01.04:381][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.09-23.01.04:381][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.09-23.01.04:381][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.09-23.01.04:394][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.09-23.01.04:394][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb1 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.09-23.01.04:394][  0]LogWindows: EnumDisplayDevices:
+[2018.05.09-23.01.04:394][  0]LogWindows:    0. 'NVIDIA Quadro P4000' (P:1 D:1)
+[2018.05.09-23.01.04:395][  0]LogWindows:    1. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.05.09-23.01.04:395][  0]LogWindows:    2. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.05.09-23.01.04:395][  0]LogWindows:    3. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.05.09-23.01.04:396][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.05.09-23.01.04:396][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P4000
+[2018.05.09-23.01.04:396][  0]LogD3D11RHI:   Driver Version: 381.65 (internal:22.21.13.8165, unified:381.65)
+[2018.05.09-23.01.04:396][  0]LogD3D11RHI:      Driver Date: 3-31-2017
+[2018.05.09-23.01.04:396][  0]LogRHI: Texture pool is 5685 MB (70% of 8121 MB)
+[2018.05.09-23.01.04:432][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.05.09-23.01.04:432][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.09-23.01.04:446][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.05.09-23.01.04:491][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Intermediate/Shaders/WorkingDirectory/2692/).
+[2018.05.09-23.01.04:492][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/VRBC/AppData/Local/Temp/UnrealShaderWorkingDir/74B34FF94D21FB73466733BDED1EA62C/'.
+[2018.05.09-23.01.04:938][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.09-23.01.04:955][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.09-23.01.04:973][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.09-23.01.04:995][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.09-23.01.05:013][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.09-23.01.05:032][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.09-23.01.05:050][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.09-23.01.05:068][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.09-23.01.05:078][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.09-23.01.05:094][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.09-23.01.05:108][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.09-23.01.05:126][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.09-23.01.05:147][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.09-23.01.05:163][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.09-23.01.05:180][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.09-23.01.05:212][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.09-23.01.05:212][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.09-23.01.05:229][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.09-23.01.05:231][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.09-23.01.05:272][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.09-23.01.05:289][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.09-23.01.05:307][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.09-23.01.05:322][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.09-23.01.05:338][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.09-23.01.05:355][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.09-23.01.05:355][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.09-23.01.05:567][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.09-23.01.05:567][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.09-23.01.05:567][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.09-23.01.06:619][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.09-23.01.06:778][  0]LogDerivedDataCache: Loaded boot cache 0.16s 74MB C:/Users/VRBC/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.09-23.01.06:778][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/VRBC/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.09-23.01.06:778][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.09-23.01.06:778][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.09-23.01.06:778][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.09-23.01.06:778][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.09-23.01.06:798][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.09-23.01.06:811][  0]LogDerivedDataCache: Using Local data cache path C:/Users/VRBC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.09-23.01.06:835][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.09-23.01.06:836][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.09-23.01.06:838][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.09-23.01.06:838][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.09-23.01.07:049][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.05.09-23.01.07:453][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.09-23.01.07:641][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.09-23.01.07:645][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.09-23.01.07:645][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.09-23.01.07:645][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.09-23.01.07:645][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.09-23.01.07:645][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.09-23.01.07:688][  0]LogNetVersion: SeniorDesignV1 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 838868365)
+[2018.05.09-23.01.08:287][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.107441 seconds
+[2018.05.09-23.01.08:294][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.09-23.01.08:295][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.09-23.01.08:295][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.09-23.01.10:736][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.09-23.01.10:786][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.09-23.01.11:518][  0]SourceControl: Source control is disabled
+[2018.05.09-23.01.11:518][  0]SourceControl: Source control is disabled
+[2018.05.09-23.01.11:559][  0]SourceControl: Source control is disabled
+[2018.05.09-23.01.11:598][  0]SourceControl: Source control is disabled
+[2018.05.09-23.01.12:541][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.09-23.01.12:891][  0]LogOcInput: OculusInput pre-init called
+[2018.05.09-23.01.13:166][  0]LogEngine: Initializing Engine...
+[2018.05.09-23.01.13:166][  0]LogHMD: Oculus plugin initialized. Version: 4.19.0-3944462+++UE4+Release-4.19, OVRPlugin: 1.21.0
+[2018.05.09-23.01.13:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.09-23.01.13:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.09-23.01.13:494][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.09-23.01.13:548][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.09-23.01.13:759][  0]LogInit: FAudioDevice initialized.
+[2018.05.09-23.01.13:885][  0]LogDerivedDataCache: Saved boot cache 0.13s 74MB C:/Users/VRBC/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.09-23.01.13:895][  0]LogInit: Texture streaming: Enabled
+[2018.05.09-23.01.13:922][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.09-23.01.13:942][  0]LogInit: Transaction tracking system initialized
+[2018.05.09-23.01.13:980][  0]BlueprintLog: New page: Editor Load
+[2018.05.09-23.01.14:115][  0]LocalizationService: Localization service is disabled
+[2018.05.09-23.01.14:293][  0]LogConsoleResponse: Display: 
+[2018.05.09-23.01.14:496][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.09-23.01.14:496][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.09-23.01.14:496][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.09-23.01.14:496][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.09-23.01.14:496][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.09-23.01.15:143][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/' took 0.02s
+[2018.05.09-23.01.15:223][  0]SourceControl: Source control is disabled
+[2018.05.09-23.01.15:223][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.09-23.01.15:224][  0]LightingResults: New page: Lighting Build
+[2018.05.09-23.01.15:228][  0]MapCheck: New page: Map Check
+[2018.05.09-23.01.15:228][  0]LightingResults: New page: Lighting Build
+[2018.05.09-23.01.15:417][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.09-23.01.15:427][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.09-23.01.15:441][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.09-23.01.15:578][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 136.846ms to complete.
+[2018.05.09-23.01.15:578][  0]LogFileHelpers: Loading map 'Template_Default' took 0.355
+[2018.05.09-23.01.15:739][  0]LogCollectionManager: Loaded 0 collections in 0.002846 seconds
+[2018.05.09-23.01.15:784][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Saved/Collections/' took 0.01s
+[2018.05.09-23.01.15:784][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Developers/VRBC/Collections/' took 0.01s
+[2018.05.09-23.01.15:784][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Collections/' took 0.01s
+[2018.05.09-23.01.15:784][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.09-23.01.15:795][  0]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2462 classes and 567 folders.
+[2018.05.09-23.01.15:805][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.05.09-23.01.15:876][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.05.09-23.01.15:882][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.05.09-23.01.15:964][  0]LogSlate: Took 0.000934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.09-23.01.15:970][  0]LogSlate: Took 0.001064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.09-23.01.15:986][  0]LogSlate: Took 0.001100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.09-23.01.16:095][  0]LogRenderer: Reallocating scene render targets to support 1080x440 Format 10 NumSamples 1 (Frame:1).
+[2018.05.09-23.01.16:275][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.05.09-23.01.16:275][  0]LogLoad: (Engine Initialization) Total time: 18.16 seconds
+[2018.05.09-23.01.16:275][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.09-23.01.16:284][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.09-23.01.16:285][  0]LogOcInput: OculusInput is initialized
+[2018.05.09-23.01.16:305][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.09-23.01.16:366][  1]LogAssetRegistry: Asset discovery search completed in 9.3391 seconds
+[2018.05.09-23.01.16:369][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.09-23.01.16:369][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
+[2018.05.09-23.01.19:896][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.09-23.01.19:981][420]LogSlate: Took 0.000876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.09-23.01.22:804][703]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.09-23.01.23:129][703]LogAIModule: Creating AISystem for world MainMenu
+[2018.05.09-23.01.23:156][703]Cmd: MAP LOAD FILE="../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.09-23.01.23:156][703]LightingResults: New page: Lighting Build
+[2018.05.09-23.01.23:157][703]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.05.09-23.01.23:157][703]MapCheck: New page: Map Check
+[2018.05.09-23.01.23:157][703]LightingResults: New page: Lighting Build
+[2018.05.09-23.01.23:247][703]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.09-23.01.23:286][703]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.09-23.01.23:384][703]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 97.957ms to complete.
+[2018.05.09-23.01.23:385][703]LogFileHelpers: Loading map 'MainMenu' took 0.231
+[2018.05.09-23.01.46:059][399]LogTemp: Repeating last play command: VR Preview
+[2018.05.09-23.01.46:076][399]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.01.46:076][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.09-23.01.46:077][399]LogHMD: Initializing OVRPlugin session
+[2018.05.09-23.01.46:197][399]PIE: New page: PIE session: MainMenu (May 9, 2018, 9:01:46 AM)
+[2018.05.09-23.01.46:197][399]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_MainMenu
+[2018.05.09-23.01.46:199][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001675s)
+[2018.05.09-23.01.46:200][399]LogAIModule: Creating AISystem for world MainMenu
+[2018.05.09-23.01.46:200][399]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2018.05.09-23.01.46:200][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/MainMenu.MainMenu to /Game/levels/UEDPIE_0_MainMenu.MainMenu (0.002491s)
+[2018.05.09-23.01.46:233][399]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.09-23.01.46:253][399]LogInit: FAudioDevice initialized.
+[2018.05.09-23.01.46:353][399]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.05.09-23.01.46:393][399]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.09-23.01.46:395][399]LogWorld: Bringing World /Game/levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.05.09-16.01.46
+[2018.05.09-23.01.46:396][399]LogWorld: Bringing up level for play took: 0.001759
+[2018.05.09-23.01.46:402][399]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2018.05.09-23.01.46:403][399]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.01.46:403][399]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.01.46:408][399]PIE: Play in editor start time for /Game/levels/UEDPIE_0_MainMenu 1.294
+[2018.05.09-23.01.46:408][399]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.01.46:408][399]LogEngine: Changing dynamic resolution state.
+[2018.05.09-23.01.46:414][399]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 10 NumSamples 1 (Frame:1).
+[2018.05.09-23.01.46:414][399]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.05.09-23.01.51:929][894]LogNet: Browse: /Game/levels/conferenceRoomSelect
+[2018.05.09-23.01.51:929][894]LogLoadingSplash: Loading begins
+[2018.05.09-23.01.51:939][894]LogHMD: FSplash::OnShow
+[2018.05.09-23.01.51:939][894]LogLoad: LoadMap: /Game/levels/conferenceRoomSelect
+[2018.05.09-23.01.51:951][894]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.09-23.01.51:951][894]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.01.51:964][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.01.51:964][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.01.51:964][894]LoadErrors: Error: /Game/Assets/ConferenceRoom/Materials/M_Rock_Sandstone : Can't find file for asset. /Game/StarterContent/Textures/T_MacroVariation
+[2018.05.09-23.01.51:964][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.01.51:964][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.01.51:965][894]LoadErrors: Error: /Game/Assets/ConferenceRoom/Materials/M_Rock_Sandstone : Can't find file for asset. /Game/StarterContent/Textures/T_Perlin_Noise_M
+[2018.05.09-23.01.51:965][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.01.51:965][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.01.51:965][894]LoadErrors: Error: /Game/Assets/ConferenceRoom/Materials/M_Rock_Sandstone : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Sandstone_D
+[2018.05.09-23.01.51:965][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.01.51:965][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.01.51:965][894]LoadErrors: Error: /Game/Assets/ConferenceRoom/Materials/M_Rock_Sandstone : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Sandstone_N
+[2018.05.09-23.01.51:965][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.01.51:966][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.01.51:966][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.01.51:966][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.01.51:966][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.01.51:966][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.01.51:966][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.01.51:967][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.01.52:012][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.01.52:012][894]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Sandstone_D.T_Rock_Sandstone_D Referenced by MaterialExpressionTextureSample_1
+[2018.05.09-23.01.52:012][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading NULL.
+[2018.05.09-23.01.52:013][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.01.52:013][894]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Sandstone_D.T_Rock_Sandstone_D Referenced by MaterialExpressionTextureSample_2
+[2018.05.09-23.01.52:013][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading NULL.
+[2018.05.09-23.01.52:013][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.01.52:013][894]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Sandstone_N.T_Rock_Sandstone_N Referenced by MaterialExpressionTextureSample_4
+[2018.05.09-23.01.52:014][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading NULL.
+[2018.05.09-23.01.52:014][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.01.52:014][894]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Sandstone_N.T_Rock_Sandstone_N Referenced by MaterialExpressionTextureSample_5
+[2018.05.09-23.01.52:014][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading NULL.
+[2018.05.09-23.01.52:015][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.01.52:015][894]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_62
+[2018.05.09-23.01.52:015][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading NULL.
+[2018.05.09-23.01.52:015][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.01.52:015][894]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_63
+[2018.05.09-23.01.52:015][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2018.05.09-23.01.52:015][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.01.52:015][894]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_64
+[2018.05.09-23.01.52:016][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2018.05.09-23.01.52:016][894]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.01.52:016][894]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_65
+[2018.05.09-23.01.52:016][894]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2018.05.09-23.01.52:075][894]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2018.05.09-23.01.52:076][894]LogMaterial: Warning: C:\Users\VRBC\Desktop\rjackson\PresentVR\SeniorDesignV1 4.19\Content\Assets\ConferenceRoom\Materials\M_Rock_Sandstone.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.05.09-23.01.52:076][894]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.05.09-23.01.52:483][894]LogAIModule: Creating AISystem for world conferenceRoomSelect
+[2018.05.09-23.01.52:484][894]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.09-23.01.52:488][894]LogWorld: Bringing World /Game/levels/UEDPIE_0_conferenceRoomSelect.conferenceRoomSelect up for play (max tick rate 0) at 2018.05.09-16.01.52
+[2018.05.09-23.01.52:488][894]LogWorld: Bringing up level for play took: 0.003749
+[2018.05.09-23.01.52:489][894]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.01.52:489][894]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.01.52:490][894]LogLoadingSplash: Loading ends
+[2018.05.09-23.01.52:490][894]LogHMD: FSplash::OnHide
+[2018.05.09-23.01.52:496][894]LogLoad: Took 0.557025 seconds to LoadMap(/Game/levels/conferenceRoomSelect)
+[2018.05.09-23.02.00:735][634]LogNet: Browse: /Game/levels/classRoomSelect
+[2018.05.09-23.02.00:735][634]LogLoadingSplash: Loading begins
+[2018.05.09-23.02.00:744][634]LogHMD: FSplash::OnShow
+[2018.05.09-23.02.00:744][634]LogLoad: LoadMap: /Game/levels/classRoomSelect
+[2018.05.09-23.02.00:756][634]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.09-23.02.00:756][634]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.01:226][634]LogAIModule: Creating AISystem for world classRoomSelect
+[2018.05.09-23.02.01:226][634]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.09-23.02.01:236][634]LogWorld: Bringing World /Game/levels/UEDPIE_0_classRoomSelect.classRoomSelect up for play (max tick rate 0) at 2018.05.09-16.02.01
+[2018.05.09-23.02.01:236][634]LogWorld: Bringing up level for play took: 0.009669
+[2018.05.09-23.02.01:240][634]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.01:240][634]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.01:241][634]LogLoadingSplash: Loading ends
+[2018.05.09-23.02.01:241][634]LogHMD: FSplash::OnHide
+[2018.05.09-23.02.01:247][634]LogLoad: Took 0.503632 seconds to LoadMap(/Game/levels/classRoomSelect)
+[2018.05.09-23.02.03:263][815]PIE: Error: SetInputMode_GameOnly expects a valid player controller as 'PlayerController' target
+[2018.05.09-23.02.03:274][816]LogNet: Browse: /Game/levels/conferenceRoomSelect
+[2018.05.09-23.02.03:274][816]LogLoadingSplash: Loading begins
+[2018.05.09-23.02.03:284][816]LogHMD: FSplash::OnShow
+[2018.05.09-23.02.03:284][816]LogLoad: LoadMap: /Game/levels/conferenceRoomSelect
+[2018.05.09-23.02.03:299][816]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.09-23.02.03:299][816]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.03:400][816]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.02.03:400][816]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.03:400][816]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.02.03:400][816]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.03:401][816]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.02.03:401][816]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.03:401][816]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.02.03:401][816]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.03:401][816]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.02.03:402][816]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.03:402][816]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.02.03:402][816]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.03:402][816]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.02.03:402][816]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.03:403][816]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.02.03:403][816]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.03:485][816]LogAIModule: Creating AISystem for world conferenceRoomSelect
+[2018.05.09-23.02.03:486][816]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.09-23.02.03:490][816]LogWorld: Bringing World /Game/levels/UEDPIE_0_conferenceRoomSelect.conferenceRoomSelect up for play (max tick rate 0) at 2018.05.09-16.02.03
+[2018.05.09-23.02.03:490][816]LogWorld: Bringing up level for play took: 0.003636
+[2018.05.09-23.02.03:491][816]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.03:491][816]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.03:492][816]LogLoadingSplash: Loading ends
+[2018.05.09-23.02.03:492][816]LogHMD: FSplash::OnHide
+[2018.05.09-23.02.03:506][816]LogLoad: Took 0.222055 seconds to LoadMap(/Game/levels/conferenceRoomSelect)
+[2018.05.09-23.02.05:233][971]LogNet: Browse: /Game/levels/classRoomSelect
+[2018.05.09-23.02.05:233][971]LogLoadingSplash: Loading begins
+[2018.05.09-23.02.05:241][971]LogHMD: FSplash::OnShow
+[2018.05.09-23.02.05:242][971]LogLoad: LoadMap: /Game/levels/classRoomSelect
+[2018.05.09-23.02.05:254][971]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.09-23.02.05:254][971]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.05:493][971]LogAIModule: Creating AISystem for world classRoomSelect
+[2018.05.09-23.02.05:493][971]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.09-23.02.05:505][971]LogWorld: Bringing World /Game/levels/UEDPIE_0_classRoomSelect.classRoomSelect up for play (max tick rate 0) at 2018.05.09-16.02.05
+[2018.05.09-23.02.05:505][971]LogWorld: Bringing up level for play took: 0.011648
+[2018.05.09-23.02.05:506][971]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.05:506][971]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.05:508][971]LogLoadingSplash: Loading ends
+[2018.05.09-23.02.05:508][971]LogHMD: FSplash::OnHide
+[2018.05.09-23.02.05:520][971]LogLoad: Took 0.277933 seconds to LoadMap(/Game/levels/classRoomSelect)
+[2018.05.09-23.02.10:645][431]PIE: Error: SetInputMode_GameOnly expects a valid player controller as 'PlayerController' target
+[2018.05.09-23.02.10:653][432]LogNet: Browse: /Game/levels/conferenceRoomSelect
+[2018.05.09-23.02.10:653][432]LogLoadingSplash: Loading begins
+[2018.05.09-23.02.10:662][432]LogHMD: FSplash::OnShow
+[2018.05.09-23.02.10:663][432]LogLoad: LoadMap: /Game/levels/conferenceRoomSelect
+[2018.05.09-23.02.10:676][432]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.09-23.02.10:676][432]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.10:780][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.02.10:781][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.10:781][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.02.10:781][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.10:781][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.02.10:781][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.10:782][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.02.10:782][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.10:782][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.02.10:782][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.10:782][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.02.10:783][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.10:783][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.02.10:783][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.10:783][432]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.02.10:783][432]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.10:860][432]LogAIModule: Creating AISystem for world conferenceRoomSelect
+[2018.05.09-23.02.10:860][432]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.09-23.02.10:865][432]LogWorld: Bringing World /Game/levels/UEDPIE_0_conferenceRoomSelect.conferenceRoomSelect up for play (max tick rate 0) at 2018.05.09-16.02.10
+[2018.05.09-23.02.10:865][432]LogWorld: Bringing up level for play took: 0.004382
+[2018.05.09-23.02.10:866][432]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.10:866][432]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.10:867][432]LogLoadingSplash: Loading ends
+[2018.05.09-23.02.10:867][432]LogHMD: FSplash::OnHide
+[2018.05.09-23.02.10:874][432]LogLoad: Took 0.211328 seconds to LoadMap(/Game/levels/conferenceRoomSelect)
+[2018.05.09-23.02.12:611][587]LogNet: Browse: /Game/levels/conferenceRoom
+[2018.05.09-23.02.12:611][587]LogLoadingSplash: Loading begins
+[2018.05.09-23.02.12:620][587]LogHMD: FSplash::OnShow
+[2018.05.09-23.02.12:621][587]LogLoad: LoadMap: /Game/levels/conferenceRoom
+[2018.05.09-23.02.12:635][587]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.09-23.02.12:635][587]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.12:710][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Interested to Lean Forward  will never be taken, please connect something to  Can Enter Transition
+[2018.05.09-23.02.12:730][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:730][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:730][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:730][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:730][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:730][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:730][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:731][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:731][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:731][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:731][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:731][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:731][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:731][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:732][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:732][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:732][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:733][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:733][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:733][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.02.12:734][587]LogBlueprint: Warning: [Compiler Male1_AnimationBP] [0074.62] Compile of Male1_AnimationBP successful, but with 21 Warning(s) [in 40 ms] (/Game/people/testmale/animation/Male1_AnimationBP.Male1_AnimationBP)
+[2018.05.09-23.02.12:871][587]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.02.12:872][587]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.12:872][587]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.02.12:872][587]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.12:872][587]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.02.12:872][587]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.12:873][587]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.02.12:873][587]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.12:873][587]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.02.12:873][587]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.12:873][587]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.02.12:873][587]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.12:874][587]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.02.12:874][587]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.12:874][587]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.02.12:874][587]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.02.13:037][587]LogSkeletalMesh: Skeletal Mesh found in DDC [6.408990ms] /Game/people/testmale/mesh/male1.male1
+[2018.05.09-23.02.13:114][587]LogAIModule: Creating AISystem for world conferenceRoom
+[2018.05.09-23.02.13:114][587]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.09-23.02.13:120][587]LogWorld: Bringing World /Game/levels/UEDPIE_0_conferenceRoom.conferenceRoom up for play (max tick rate 0) at 2018.05.09-16.02.13
+[2018.05.09-23.02.13:121][587]LogWorld: Bringing up level for play took: 0.005946
+[2018.05.09-23.02.13:122][587]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.13:122][587]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.02.13:134][587]LogLoadingSplash: Loading ends
+[2018.05.09-23.02.13:134][587]LogHMD: FSplash::OnHide
+[2018.05.09-23.02.13:142][587]LogLoad: Took 0.521647 seconds to LoadMap(/Game/levels/conferenceRoom)
+[2018.05.09-23.02.13:288][600]SocketIOLog: SocketIO Connected with session: mgAmqPkLwDmiPgQjAAAA
+[2018.05.09-23.02.13:288][600]SocketIOLog: SocketIO mgAmqPkLwDmiPgQjAAAA connected to namespace: /
+[2018.05.09-23.02.13:288][600]LogBlueprintUserMessages: [ConnectionManagerBP_134] Connected
+[2018.05.09-23.02.13:299][601]LogBlueprintUserMessages: [ConnectionManagerBP_134] room code
+[2018.05.09-23.02.13:299][601]LogBlueprintUserMessages: [ConnectionManagerBP_134] MGAM
+[2018.05.09-23.02.13:299][601]LogBlueprintUserMessages: [StartMenu_C_1] MGAM
+[2018.05.09-23.02.30:101][113]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.02.32:034][287]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.02.32:645][342]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.02.34:990][552]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.02.37:579][785]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.02.38:411][860]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.02.42:558][233]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.02.42:794][254]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.03.17:358][359]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.03.43:740][735]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.00:280][225]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.03:335][501]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.06:970][828]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.07:836][905]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.14:047][466]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.14:857][539]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.15:612][607]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.16:347][673]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.18:113][832]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.18:671][882]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.19:468][955]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.20:124][ 14]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.20:857][ 80]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.21:558][143]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.22:359][215]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.23:246][295]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.24:024][365]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.04.24:468][405]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.24:968][451]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.25:157][468]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.25:345][485]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.25:534][502]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.25:723][519]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.25:934][538]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.26:134][556]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.26:345][575]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.26:579][596]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.26:812][617]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.27:570][685]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.27:868][712]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.04.28:124][735]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.05.42:313][411]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.45:126][665]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.47:359][867]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.48:683][986]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.50:490][148]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.51:504][240]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.52:272][309]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.52:981][373]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.53:592][429]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.54:225][486]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.55:025][558]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.55:660][615]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.56:959][732]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Next slide
+[2018.05.09-23.05.57:393][771]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.05.57:659][795]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.05.57:847][812]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.05.58:027][828]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.05.58:203][844]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.05.58:362][858]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.05.58:525][873]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.05.58:703][889]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.05.58:870][904]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.05.59:014][917]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.05.59:181][932]LogBlueprintUserMessages: [SpeakerPlayerCharacter_C_0] Previous Slide
+[2018.05.09-23.06.03:256][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.06.03:370][298]LogSlate: Window 'SeniorDesignV1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.09-23.06.03:413][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.06.03:432][298]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.09-23.06.03:432][298]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.06.03:451][299]SocketIOLog: SocketIO Disconnected mgAmqPkLwDmiPgQjAAAA reason: CLOSE_REASON_NORMAL
+[2018.05.09-23.06.03:452][299]LogEngine: Changing dynamic resolution state.
+[2018.05.09-23.06.06:374][642]SocketIOLog: SocketIO mgAmqPkLwDmiPgQjAAAA disconnected from namespace: /
+[2018.05.09-23.06.37:595][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.06.37:595][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.09-23.06.37:595][371]LogHMD: Initializing OVRPlugin session
+[2018.05.09-23.06.37:750][371]PIE: New page: PIE session: MainMenu (May 9, 2018, 9:06:37 AM)
+[2018.05.09-23.06.37:826][371]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_MainMenu
+[2018.05.09-23.06.37:827][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001370s)
+[2018.05.09-23.06.37:830][371]LogAIModule: Creating AISystem for world MainMenu
+[2018.05.09-23.06.37:830][371]LogPlayLevel: PIE: World Init took: (0.002494s)
+[2018.05.09-23.06.37:830][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/MainMenu.MainMenu to /Game/levels/UEDPIE_0_MainMenu.MainMenu (0.004092s)
+[2018.05.09-23.06.37:858][371]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.09-23.06.37:890][371]LogInit: FAudioDevice initialized.
+[2018.05.09-23.06.37:976][371]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.09-23.06.37:978][371]LogWorld: Bringing World /Game/levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.05.09-16.06.37
+[2018.05.09-23.06.37:978][371]LogWorld: Bringing up level for play took: 0.001198
+[2018.05.09-23.06.37:979][371]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.06.37:979][371]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.06.37:982][371]PIE: Play in editor start time for /Game/levels/UEDPIE_0_MainMenu 0.869
+[2018.05.09-23.06.37:983][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.06.47:920][535]LogNet: Browse: /Game/levels/conferenceRoomSelect
+[2018.05.09-23.06.47:920][535]LogLoadingSplash: Loading begins
+[2018.05.09-23.06.47:921][535]LogLoad: LoadMap: /Game/levels/conferenceRoomSelect
+[2018.05.09-23.06.47:931][535]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.09-23.06.47:931][535]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.06.47:959][535]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.06.47:959][535]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.47:960][535]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.06.47:960][535]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.47:960][535]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.06.47:960][535]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.47:960][535]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.06.47:960][535]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.47:961][535]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.06.47:961][535]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.47:961][535]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.06.47:961][535]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.47:961][535]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.06.47:961][535]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.47:962][535]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.06.47:962][535]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.48:039][535]LogAIModule: Creating AISystem for world conferenceRoomSelect
+[2018.05.09-23.06.48:039][535]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.09-23.06.48:043][535]LogWorld: Bringing World /Game/levels/UEDPIE_0_conferenceRoomSelect.conferenceRoomSelect up for play (max tick rate 0) at 2018.05.09-16.06.48
+[2018.05.09-23.06.48:044][535]LogWorld: Bringing up level for play took: 0.003978
+[2018.05.09-23.06.48:045][535]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.06.48:045][535]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.06.48:046][535]LogLoadingSplash: Loading ends
+[2018.05.09-23.06.48:046][535]LogLoad: Took 0.125871 seconds to LoadMap(/Game/levels/conferenceRoomSelect)
+[2018.05.09-23.06.54:089][253]LogNet: Browse: /Game/levels/conferenceRoom
+[2018.05.09-23.06.54:089][253]LogLoadingSplash: Loading begins
+[2018.05.09-23.06.54:090][253]LogLoad: LoadMap: /Game/levels/conferenceRoom
+[2018.05.09-23.06.54:101][253]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.09-23.06.54:101][253]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.06.54:261][253]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.06.54:261][253]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.54:261][253]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.06.54:261][253]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.54:262][253]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.06.54:262][253]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.54:262][253]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.06.54:262][253]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.54:262][253]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2018.05.09-23.06.54:262][253]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.54:263][253]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2018.05.09-23.06.54:263][253]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.54:263][253]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_D'
+[2018.05.09-23.06.54:263][253]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_D' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.54:263][253]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Sandstone_N'
+[2018.05.09-23.06.54:263][253]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Sandstone_N' while loading ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Assets/ConferenceRoom/Materials/M_Rock_Sandstone.uasset.
+[2018.05.09-23.06.54:332][253]LogAIModule: Creating AISystem for world conferenceRoom
+[2018.05.09-23.06.54:332][253]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.09-23.06.54:337][253]LogWorld: Bringing World /Game/levels/UEDPIE_0_conferenceRoom.conferenceRoom up for play (max tick rate 0) at 2018.05.09-16.06.54
+[2018.05.09-23.06.54:337][253]LogWorld: Bringing up level for play took: 0.004847
+[2018.05.09-23.06.54:338][253]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.06.54:338][253]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.06.54:351][253]LogLoadingSplash: Loading ends
+[2018.05.09-23.06.54:351][253]LogLoad: Took 0.260948 seconds to LoadMap(/Game/levels/conferenceRoom)
+[2018.05.09-23.06.54:485][267]SocketIOLog: SocketIO Connected with session: Jzq6MLo-p_PQVe7nAAAB
+[2018.05.09-23.06.54:485][267]SocketIOLog: SocketIO Jzq6MLo-p_PQVe7nAAAB connected to namespace: /
+[2018.05.09-23.06.54:485][267]LogBlueprintUserMessages: [ConnectionManagerBP_134] Connected
+[2018.05.09-23.06.54:485][267]LogBlueprintUserMessages: [ConnectionManagerBP_134] room code
+[2018.05.09-23.06.54:485][267]LogBlueprintUserMessages: [ConnectionManagerBP_134] JZQ6
+[2018.05.09-23.06.54:485][267]LogBlueprintUserMessages: [StartMenu_C_3] JZQ6
+[2018.05.09-23.07.03:478][338]LogBlueprintUserMessages: [ConnectionManagerBP_134] applaud
+[2018.05.09-23.07.03:478][338]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.04:187][423]LogBlueprintUserMessages: [ConnectionManagerBP_134] applaud
+[2018.05.09-23.07.04:187][423]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.04:377][445]LogBlueprintUserMessages: [ConnectionManagerBP_134] applaud
+[2018.05.09-23.07.04:377][445]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.05:307][553]LogBlueprintUserMessages: [ConnectionManagerBP_134] boo
+[2018.05.09-23.07.05:307][553]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.05:510][577]LogBlueprintUserMessages: [ConnectionManagerBP_134] boo
+[2018.05.09-23.07.05:510][577]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.05:778][608]LogBlueprintUserMessages: [ConnectionManagerBP_134] boo
+[2018.05.09-23.07.05:778][608]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.06:637][711]LogBlueprintUserMessages: [ConnectionManagerBP_134] cry
+[2018.05.09-23.07.06:637][711]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.06:804][731]LogBlueprintUserMessages: [ConnectionManagerBP_134] cry
+[2018.05.09-23.07.06:804][731]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.06:999][754]LogBlueprintUserMessages: [ConnectionManagerBP_134] cry
+[2018.05.09-23.07.06:999][754]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.07:428][805]LogBlueprintUserMessages: [ConnectionManagerBP_134] laugh
+[2018.05.09-23.07.07:428][805]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.07:588][824]LogBlueprintUserMessages: [ConnectionManagerBP_134] laugh
+[2018.05.09-23.07.07:588][824]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.07:780][847]LogBlueprintUserMessages: [ConnectionManagerBP_134] laugh
+[2018.05.09-23.07.07:780][847]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.08:004][874]LogBlueprintUserMessages: [ConnectionManagerBP_134] laugh
+[2018.05.09-23.07.08:004][874]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.08:464][928]LogBlueprintUserMessages: [ConnectionManagerBP_134] cheer
+[2018.05.09-23.07.08:464][928]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.08:655][951]LogBlueprintUserMessages: [ConnectionManagerBP_134] cheer
+[2018.05.09-23.07.08:655][951]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.08:924][983]LogBlueprintUserMessages: [ConnectionManagerBP_134] cheer
+[2018.05.09-23.07.08:924][983]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.09:172][ 13]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.09:172][ 13]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.09:350][ 34]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.09:350][ 34]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.09:521][ 53]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.09:521][ 53]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.09:688][ 73]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.09:688][ 73]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.09:871][ 95]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.09:871][ 95]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.10:372][154]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.10:372][154]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.11:718][315]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.11:718][315]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.11:874][334]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.11:874][334]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.12:559][415]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.12:559][415]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.12:749][438]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.12:749][438]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.12:932][460]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.12:932][460]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.13:149][486]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.13:149][486]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.13:443][521]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.13:443][521]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.13:677][549]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.13:677][549]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.14:033][592]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.14:033][592]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.14:202][612]LogBlueprintUserMessages: [ConnectionManagerBP_134] neutral
+[2018.05.09-23.07.14:202][612]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors1' of length 0 in '/Game/Blueprints/ConnectionManagerBP.ConnectionManagerBP_C:ExecuteUbergraph_ConnectionManagerBP'!
+[2018.05.09-23.07.16:163][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.07.16:186][843]LogSlate: Window 'SeniorDesignV1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.09-23.07.16:228][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.07.16:240][843]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.09-23.07.16:240][843]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.07.16:262][845]SocketIOLog: SocketIO Disconnected Jzq6MLo-p_PQVe7nAAAB reason: CLOSE_REASON_NORMAL
+[2018.05.09-23.07.19:189][190]SocketIOLog: SocketIO Jzq6MLo-p_PQVe7nAAAB disconnected from namespace: /
+[2018.05.09-23.07.20:238][315]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.09-23.07.20:254][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.07.20:254][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.09-23.07.20:254][315]LogHMD: Initializing OVRPlugin session
+[2018.05.09-23.07.20:312][315]PIE: New page: PIE session: MainMenu (May 9, 2018, 9:07:20 AM)
+[2018.05.09-23.07.20:387][315]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_MainMenu
+[2018.05.09-23.07.20:389][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001324s)
+[2018.05.09-23.07.20:389][315]LogAIModule: Creating AISystem for world MainMenu
+[2018.05.09-23.07.20:389][315]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2018.05.09-23.07.20:389][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/MainMenu.MainMenu to /Game/levels/UEDPIE_0_MainMenu.MainMenu (0.001996s)
+[2018.05.09-23.07.20:422][315]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.09-23.07.20:451][315]LogInit: FAudioDevice initialized.
+[2018.05.09-23.07.20:531][315]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.09-23.07.20:532][315]LogWorld: Bringing World /Game/levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.05.09-16.07.20
+[2018.05.09-23.07.20:533][315]LogWorld: Bringing up level for play took: 0.001019
+[2018.05.09-23.07.20:534][315]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.07.20:534][315]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.07.20:538][315]PIE: Play in editor start time for /Game/levels/UEDPIE_0_MainMenu -0.576
+[2018.05.09-23.07.20:538][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.07.36:454][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.07.36:474][194]LogSlate: Window 'SeniorDesignV1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.09-23.07.36:502][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.07.36:515][194]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.09-23.07.36:515][194]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.07.38:871][472]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.05.09-23.07.38:893][472]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.07.38:893][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.09-23.07.38:893][472]LogHMD: Initializing OVRPlugin session
+[2018.05.09-23.07.38:953][472]PIE: New page: PIE session: MainMenu (May 9, 2018, 9:07:38 AM)
+[2018.05.09-23.07.38:954][472]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_MainMenu
+[2018.05.09-23.07.38:955][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001278s)
+[2018.05.09-23.07.38:955][472]LogAIModule: Creating AISystem for world MainMenu
+[2018.05.09-23.07.38:955][472]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2018.05.09-23.07.38:955][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/MainMenu.MainMenu to /Game/levels/UEDPIE_0_MainMenu.MainMenu (0.001956s)
+[2018.05.09-23.07.38:995][472]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.09-23.07.39:025][472]LogInit: FAudioDevice initialized.
+[2018.05.09-23.07.39:110][472]LogLoad: Game class is 'MyGameMode_C'
+[2018.05.09-23.07.39:111][472]LogWorld: Bringing World /Game/levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.05.09-16.07.39
+[2018.05.09-23.07.39:111][472]LogWorld: Bringing up level for play took: 0.001092
+[2018.05.09-23.07.39:113][472]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.07.39:113][472]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.07.39:118][472]PIE: Play in editor start time for /Game/levels/UEDPIE_0_MainMenu 0.004
+[2018.05.09-23.07.39:118][472]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.07.44:674][ 98]LogSlate: Window 'SeniorDesignV1 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.09-23.07.44:677][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.07.44:711][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.05.09-23.07.44:726][ 98]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.09-23.07.44:726][ 98]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.07.48:022][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.07.48:022][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.07.48:022][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.07.48:022][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.07.48:022][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.07.48:022][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.07.48:022][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.07.48:022][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.07.48:023][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.07.48:023][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.07.48:023][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Player Character . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.07.48:023][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] Node  Transform (Modify) Bone - Bone: Head  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.09-23.07.48:023][446]LogBlueprint: Warning: [Compiler Male1_AnimationBP1] [0409.91] Compile of Male1_AnimationBP1 successful, but with 12 Warning(s) [in 22 ms] (/Game/Male1_AnimationBP1.Male1_AnimationBP1)
+[2018.05.09-23.07.48:360][446]LogSkeletalMesh: Skeletal Mesh found in DDC [1.343158ms] /Game/people/female4/female4_sitting.female4_sitting
+[2018.05.09-23.07.48:367][446]LogSkeletalMesh: Skeletal Mesh found in DDC [1.772570ms] /Game/people/male3/male3_sitting.male3_sitting
+[2018.05.09-23.07.48:387][446]LogSkeletalMesh: Skeletal Mesh found in DDC [0.901819ms] /Game/people/male5/male5_sitting.male5_sitting
+[2018.05.09-23.07.48:398][446]LogSkeletalMesh: Skeletal Mesh found in DDC [1.974238ms] /Game/people/female3/female3_sitting.female3_sitting
+[2018.05.09-23.07.48:406][446]LogSkeletalMesh: Skeletal Mesh found in DDC [1.095997ms] /Game/male1_sitting.male1_sitting
+[2018.05.09-23.07.48:407][446]LogSkeletalMesh: Skeletal Mesh found in DDC [1.095720ms] /Game/people/female5/female5_sitting.female5_sitting
+[2018.05.09-23.07.48:412][446]LogSkeletalMesh: Skeletal Mesh found in DDC [1.165901ms] /Game/people/male2/male2_sitting.male2_sitting
+[2018.05.09-23.07.48:433][446]LogSkeletalMesh: Skeletal Mesh found in DDC [0.989199ms] /Game/people/male4/male4_sitting.male4_sitting
+[2018.05.09-23.07.48:465][446]LogSkeletalMesh: Skeletal Mesh found in DDC [8.310272ms] /Game/people/male/Male1/Sit_Idle.Sit_Idle
+[2018.05.09-23.07.48:470][446]LogSkeletalMesh: Skeletal Mesh found in DDC [0.935662ms] /Game/people/female2/female2_sitting.female2_sitting
+[2018.05.09-23.07.48:498][446]LogAIModule: Creating AISystem for world Clsasroom
+[2018.05.09-23.07.48:526][446]Cmd: MAP LOAD FILE="../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/levels/Clsasroom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.09-23.07.48:527][446]LightingResults: New page: Lighting Build
+[2018.05.09-23.07.48:527][446]LoadErrors: New page: Loading map: Clsasroom.umap
+[2018.05.09-23.07.48:528][446]MapCheck: New page: Map Check
+[2018.05.09-23.07.48:528][446]LightingResults: New page: Lighting Build
+[2018.05.09-23.07.48:552][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue3
+	Male1_AnimationBP_C /Game/levels/Clsasroom.Clsasroom:PersistentLevel.AudiencePawn_237.SkeletalMesh.Male1_AnimationBP_C_1
+	Function /Game/people/testmale/animation/Male1_AnimationBP.Male1_AnimationBP_C:ExecuteUbergraph_Male1_AnimationBP:0C99
+[2018.05.09-23.07.48:552][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue1
+	Male1_AnimationBP1_C /Game/levels/Clsasroom.Clsasroom:PersistentLevel.AudiencePawn2_364.SkeletalMesh.Male1_AnimationBP1_C_1
+	Function /Game/Male1_AnimationBP1.Male1_AnimationBP1_C:ExecuteUbergraph_Male1_AnimationBP1:0538
+[2018.05.09-23.07.48:557][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue3
+	Male1_AnimationBP_C /Game/levels/Clsasroom.Clsasroom:PersistentLevel.AudiencePawn_237.SkeletalMesh.Male1_AnimationBP_C_3
+	Function /Game/people/testmale/animation/Male1_AnimationBP.Male1_AnimationBP_C:ExecuteUbergraph_Male1_AnimationBP:0C99
+[2018.05.09-23.07.48:560][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue3
+	Male1_AnimationBP_C /Game/levels/Clsasroom.Clsasroom:PersistentLevel.AudiencePawn2_364.SkeletalMesh.Male1_AnimationBP_C_4
+	Function /Game/people/testmale/animation/Male1_AnimationBP.Male1_AnimationBP_C:ExecuteUbergraph_Male1_AnimationBP:0C99
+[2018.05.09-23.07.48:562][446]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue1
+	Male1_AnimationBP1_C /Game/levels/Clsasroom.Clsasroom:PersistentLevel.AudiencePawn2_364.SkeletalMesh.Male1_AnimationBP1_C_2
+	Function /Game/Male1_AnimationBP1.Male1_AnimationBP1_C:ExecuteUbergraph_Male1_AnimationBP1:0538
+[2018.05.09-23.07.48:726][446]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.09-23.07.48:767][446]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.09-23.07.48:906][446]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 139.27ms to complete.
+[2018.05.09-23.07.48:906][446]LogFileHelpers: Loading map 'Clsasroom' took 0.380
+[2018.05.09-23.07.54:194][ 28]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue1
+	Male1_AnimationBP1_C /Engine/Transient.World_0:PersistentLevel.AnimationThumbnailSkeletalMeshActor_0.SkeletalMeshComponent0.Male1_AnimationBP1_C_0
+	Function /Game/Male1_AnimationBP1.Male1_AnimationBP1_C:ExecuteUbergraph_Male1_AnimationBP1:0538
+[2018.05.09-23.07.54:325][ 34]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue1
+	Male1_AnimationBP1_C /Engine/Transient.World_0:PersistentLevel.AnimationThumbnailSkeletalMeshActor_0.SkeletalMeshComponent0.Male1_AnimationBP1_C_0
+	Function /Game/Male1_AnimationBP1.Male1_AnimationBP1_C:ExecuteUbergraph_Male1_AnimationBP1:0538
+[2018.05.09-23.07.54:390][ 38]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue1
+	Male1_AnimationBP1_C /Engine/Transient.World_0:PersistentLevel.AnimationThumbnailSkeletalMeshActor_0.SkeletalMeshComponent0.Male1_AnimationBP1_C_0
+	Function /Game/Male1_AnimationBP1.Male1_AnimationBP1_C:ExecuteUbergraph_Male1_AnimationBP1:0538
+[2018.05.09-23.07.54:650][ 47]LogSkeletalMesh: Skeletal Mesh found in DDC [1.990881ms] /Game/female1_sitting.female1_sitting
+[2018.05.09-23.07.54:736][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue1
+	Male1_AnimationBP1_C /Engine/Transient.World_0:PersistentLevel.AnimationThumbnailSkeletalMeshActor_0.SkeletalMeshComponent0.Male1_AnimationBP1_C_3
+	Function /Game/Male1_AnimationBP1.Male1_AnimationBP1_C:ExecuteUbergraph_Male1_AnimationBP1:0538
+[2018.05.09-23.07.54:837][ 62]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue1
+	Male1_AnimationBP1_C /Engine/Transient.World_0:PersistentLevel.AnimationThumbnailSkeletalMeshActor_0.SkeletalMeshComponent0.Male1_AnimationBP1_C_3
+	Function /Game/Male1_AnimationBP1.Male1_AnimationBP1_C:ExecuteUbergraph_Male1_AnimationBP1:0538
+[2018.05.09-23.07.54:851][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue1
+	Male1_AnimationBP1_C /Engine/Transient.World_0:PersistentLevel.AnimationThumbnailSkeletalMeshActor_0.SkeletalMeshComponent0.Male1_AnimationBP1_C_3
+	Function /Game/Male1_AnimationBP1.Male1_AnimationBP1_C:ExecuteUbergraph_Male1_AnimationBP1:0538
+[2018.05.09-23.07.54:912][ 65]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue1
+	Male1_AnimationBP1_C /Engine/Transient.World_0:PersistentLevel.AnimationThumbnailSkeletalMeshActor_0.SkeletalMeshComponent0.Male1_AnimationBP1_C_3
+	Function /Game/Male1_AnimationBP1.Male1_AnimationBP1_C:ExecuteUbergraph_Male1_AnimationBP1:0538
+[2018.05.09-23.07.54:922][ 66]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue1
+	Male1_AnimationBP1_C /Engine/Transient.World_0:PersistentLevel.AnimationThumbnailSkeletalMeshActor_0.SkeletalMeshComponent0.Male1_AnimationBP1_C_3
+	Function /Game/Male1_AnimationBP1.Male1_AnimationBP1_C:ExecuteUbergraph_Male1_AnimationBP1:0538
+[2018.05.09-23.07.55:004][ 68]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.07.55:004][ 68]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.09-23.07.59:550][484]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 116 classes and 0 folders.
+[2018.05.09-23.08.00:387][484]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.09-23.08.00:572][485]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.09-23.08.13:543][241]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2018.05.09-23.08.13:543][241]LogUObjectGlobals: Warning: Failed to find object 'Class None.SIOJJsonObject'
+[2018.05.09-23.17.47:842][470]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/Clsasroom' took 0.023
+[2018.05.09-23.17.47:844][470]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/ConnectionManagerBP] ([1] browsable assets)...
+[2018.05.09-23.17.47:844][470]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ConnectionManagerBP]
+[2018.05.09-23.17.47:913][470]LogSavePackage: Save=28.33ms
+[2018.05.09-23.17.47:913][470]LogSavePackage: Moving '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Saved/ConnectionManagerBP_Auto172D4B44345869C3C52351692117E8F8B.tmp' to '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Saved/Autosaves/Game/Blueprints/ConnectionManagerBP_Auto1.uasset'
+[2018.05.09-23.17.47:915][470]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Saved/Autosaves/Game/Blueprints/ConnectionManagerBP_Auto1.uasset
+[2018.05.09-23.17.47:915][470]LogFileHelpers: Auto-saving content packages took 0.072
+[2018.05.09-23.21.25:409][614]BlueprintLog: New page: Compile ConnectionManagerBP
+[2018.05.09-23.21.26:095][632]LogSavePackage: Save=26.61ms
+[2018.05.09-23.21.26:096][632]LogSavePackage: Moving '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Saved/ConnectionManagerBPC5667CA444DBD14147F9BF962D80ABC1.tmp' to '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Blueprints/ConnectionManagerBP.uasset'
+[2018.05.09-23.21.26:109][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Blueprints/ConnectionManagerBP.uasset
+[2018.05.09-23.21.28:590][840]LogSlate: Window 'ConnectionManagerBP' being destroyed
+[2018.05.09-23.21.46:567][316]BlueprintLog: New page: Compile SpeakerPlayerCharacter
+[2018.05.09-23.21.47:360][325]LogSavePackage: Save=64.62ms
+[2018.05.09-23.21.47:360][325]LogSavePackage: Moving '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Saved/SpeakerPlayerCharacter41A06A154925BE83137C499F9F952C98.tmp' to '../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Blueprints/SpeakerPlayerCharacter.uasset'
+[2018.05.09-23.21.47:415][325]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/VRBC/Desktop/rjackson/PresentVR/SeniorDesignV1 4.19/Content/Blueprints/SpeakerPlayerCharacter.uasset
+[2018.05.09-23.21.48:038][368]LogSlate: Window 'SpeakerPlayerCharacter' being destroyed
+[2018.05.09-23.21.54:633][946]LogUObjectBase: Warning: Object is not registered
+[2018.05.09-23.21.55:224][946]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.591 s
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: 
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: Stack: 
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: [Callstack] 0x00000000F7CDBA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: [Callstack] 0x00000000F7A3AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: [Callstack] 0x00000000F7A4ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: [Callstack] 0x00000000F3A63DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: [Callstack] 0x00000000F235B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: [Callstack] 0x00000000F168C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: [Callstack] 0x00000000F15177AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: [Callstack] 0x00000000F151AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: [Callstack] 0x00000000F1656E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: [Callstack] 0x00000000F84C6057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.09-23.21.55:224][946]LogOutputDevice: Error: [Callstack] 0x00000000F84CBB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x00000000F86FC253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x00000000F8520475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x00000000F84F8360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x00000000F84EB197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x000000000F95E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x000000000F951B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x000000000F96052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x000000000F94D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x0000000032A4BC50 USER32.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x0000000032A4B5CF USER32.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x000000000F961666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x00000000EEC45475 UE4Editor.exe!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x00000000EEC56BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x00000000EEC56C4A UE4Editor.exe!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x00000000EEC64149 UE4Editor.exe!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x00000000EEC65B57 UE4Editor.exe!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x0000000032652784 KERNEL32.DLL!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: [Callstack] 0x0000000032C00D51 ntdll.dll!UnknownFunction []
+[2018.05.09-23.21.55:225][946]LogOutputDevice: Error: 
+[2018.05.09-23.21.55:235][946]LogStats:                SubmitErrorReport -  0.000 s
